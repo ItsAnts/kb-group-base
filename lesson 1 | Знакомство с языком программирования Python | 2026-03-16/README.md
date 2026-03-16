@@ -2,15 +2,15 @@
 
 ## 1. Скачать Python
 Официальный сайт Python:
-- Python.org￼
+- [Python.org](https://www.python.org/)
 
 Рекомендуется скачивать последнюю стабильную версию Python 3.x.
 
 ## 2. Онлайн-IDE для тестирования кода
-- OnlineGDB Python Debugger￼ – быстрый способ тестировать Python-код без установки.
+- [OnlineGDB Python Debugger](https://www.onlinegdb.com/online_python_debugger)￼ – быстрый способ тестировать Python-код без установки.
 
 ## 3. Правила написания кода
-- Использовать стандарт PEP 8 (PEP 8 — Style Guide for Python Code￼).
+- Использовать стандарт [PEP 8](https://peps.python.org/pep-0008/) (PEP 8 — Style Guide for Python Code￼).
 - Чистый и читаемый код.
 - Именование переменных в стиле snake_case.
 - Ограничение длины строк 79–99 символов.
@@ -18,10 +18,8 @@
 
 ## 4. Установка Python и важные особенности
 
-### Важно:
-
 ### Windows:
-- Скачайте установщик с Python.org￼.
+- Скачайте установщик с [Python.org](https://www.python.org/)￼.
 - Выберите опцию Add Python to [PATH](https://education.launchcode.org/lchs/_images/win-python-installer.png).
 - Следуйте инструкциям установки.
 
@@ -46,7 +44,6 @@ sudo apt install python3 python3-pip
 python3 --version
 ```
 
-
 ### Важные особенности:
 - Python 3 отличается от Python 2 (рекомендуется только Python 3.x).
 - PIP устанавливается автоматически с Python 3.x.
@@ -70,14 +67,14 @@ def add(a: int, b: int) -> int:
     return a + b
 ```
 ## 6. Рекомендуемые IDE для Python
-- Jupyter Notebook￼ – для интерактивного анализа и визуализации данных.
-- Google Colab￼ – облачная версия Jupyter с GPU.
-- Visual Studio Code￼ – легкая IDE с расширениями Python.
-- Zed￼ – современный текстовый редактор с поддержкой Python.
-- PyCharm￼ – мощная профессиональная IDE.
+- [Jupyter Notebook](https://jupyter.org/)￼ – для интерактивного анализа и визуализации данных.
+- [Google Colab](https://colab.research.google.com/drive/)￼ – облачная версия Jupyter с GPU.
+- [Visual Studio Code](https://code.visualstudio.com/)￼ – легкая IDE с расширениями Python.
+- [Zed](https://zed.dev/)￼ – современный текстовый редактор с поддержкой Python.
+- [PyCharm](https://www.jetbrains.com/pycharm/download/)￼ – мощная профессиональная IDE.
 
 ## 7. Настройка VSCode под Python
-1. Установите Visual Studio Code￼.
+1. Установите [Visual Studio Code](https://code.visualstudio.com/)￼.
 2. Установите расширение Python от Microsoft.
 3. Настройте интерпретатор:
 - Ctrl+Shift+P → “Python: Select Interpreter” → выберите установленный Python.
@@ -98,6 +95,6 @@ pip install mypy
 ## 8. Полезные ссылки
 - Документация Python￼
 - PEP 8￼
-- Mypy￼
+- Mypy
 - PyPI￼ – репозиторий пакетов Python
 - VSCode Python Docs￼
