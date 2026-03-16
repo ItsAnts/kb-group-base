@@ -10,6 +10,8 @@ https://www.onlinegdb.com/online_python_debugger
 # Как установить Python
 - Инструкция 
 
+# Почему важнна сразу приучать работать через Аннотацию ?
+
 # IDE
 - https://jupyter.org/
 - https://developers.google.com/colab
