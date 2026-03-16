@@ -25,9 +25,9 @@
 
 ### macOS:
 	1.	Установите через Homebrew:
-
+```bash
 brew install python
-
+```
 
 	2.	Проверка версии:
 
