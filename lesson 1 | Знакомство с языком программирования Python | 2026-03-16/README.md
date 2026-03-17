@@ -72,6 +72,7 @@ def add(a: int, b: int) -> int:
 - [Visual Studio Code](https://code.visualstudio.com/)￼ – легкая IDE с расширениями Python.
 - [Zed](https://zed.dev/)￼ – современный текстовый редактор с поддержкой Python.
 - [PyCharm](https://www.jetbrains.com/pycharm/download/)￼ – мощная профессиональная IDE.
+- [LazyVim](https://www.lazyvim.org/) - NeoVim IDE
 
 ## 7. Настройка VSCode под Python
 1. Установите [Visual Studio Code](https://code.visualstudio.com/)￼.
