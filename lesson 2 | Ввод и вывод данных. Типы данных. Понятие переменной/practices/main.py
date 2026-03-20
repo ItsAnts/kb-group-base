@@ -109,13 +109,3 @@ print(
         int(list_numbers[0]) + int(list_numbers[1])
     )
 )  # list_numbers[0] -> "5" => int("5") -> 5, list_numbers[1] -> "5"
-
-
-def hello_world(alert: str) -> str:
-    pass
-
-
-from typing import Optional
-
-x: int = 5
-x.split()
