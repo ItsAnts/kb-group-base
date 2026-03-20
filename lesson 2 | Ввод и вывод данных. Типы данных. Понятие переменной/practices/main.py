@@ -30,8 +30,8 @@ print(f"Name: {name} Age: {age}")
 print("Name: {} Age: {}".format(name, age))
 
 # example вычисление f-строке
-print(f"Мне сколько то лет: {15-40+age}, age: {age}")
-print("Мне сколько то лет: {}, Возраст: {}".format(15-40+age, age))
+print(f"Мне сколько то лет: {15 - 40 + age}, age: {age}")
+print("Мне сколько то лет: {}, Возраст: {}".format(15 - 40 + age, age))
 
 """
 Task::3
@@ -45,7 +45,6 @@ Second line
 # print("First line Second line", sep="\n") # dont work, ->
 # print("First line", "Secod line", sep="\n")
 print("First line\nSecond line")
-
 
 
 """
@@ -81,7 +80,6 @@ print(f"Hello, {username}")
 print("Hello, {}".format(username))
 
 
-
 """
 Task::9
 Запросите у пользователя возраст.
@@ -102,10 +100,22 @@ Task::10
 # user_number_one: int = int(input("Первое число")) | Не корректно по ТЗ
 # user_number_two: int = int(input("Второе число")) | Не корректно по ТЗ
 
-# user_numbers: int = int(input("Введите два числа через пробел")) | "5 5" -> int("5 5") -> Ошибка 
+# user_numbers: int = int(input("Введите два числа через пробел")) | "5 5" -> int("5 5") -> Ошибка
 
-user_numbers: str = input("Введите два числа через пробел") # "5 5"
-list_numbers: list[str] = user_numbers.split() # "5 5" -> ["5", "5"]
-print("Сумма чисел пользователя равна: {}".format(int(list_numbers[0]) + int(list_numbers[1]))) # list_numbers[0] -> "5" => int("5") -> 5, list_numbers[1] -> "5"
+user_numbers: str = input("Введите два числа через пробел")  # "5 5"
+list_numbers: list[str] = user_numbers.split()  # "5 5" -> ["5", "5"]
+print(
+    "Сумма чисел пользователя равна: {}".format(
+        int(list_numbers[0]) + int(list_numbers[1])
+    )
+)  # list_numbers[0] -> "5" => int("5") -> 5, list_numbers[1] -> "5"
 
 
+def hello_world(alert: str) -> str:
+    pass
+
+
+from typing import Optional
+
+x: int = 5
+x.split()
