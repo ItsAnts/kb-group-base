@@ -1,0 +1,4928 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "gwj2cavDQUySCFerLbzmc",
+      "type": "rectangle",
+      "x": 505,
+      "y": 273,
+      "width": 407,
+      "height": 123,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1760857492,
+      "version": 62,
+      "versionNonce": 905793964,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "SXpSFehqW35dh_Iawvftw"
+        }
+      ],
+      "updated": 1775738084411,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "SXpSFehqW35dh_Iawvftw",
+      "type": "text",
+      "x": 658.908332824707,
+      "y": 322,
+      "width": 99.18333435058594,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 1930827180,
+      "version": 20,
+      "versionNonce": 813362964,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775738084411,
+      "link": null,
+      "locked": false,
+      "text": "Функция А",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "gwj2cavDQUySCFerLbzmc",
+      "originalText": "Функция А",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "KOOdR0vOsuER9jwXTorSw",
+      "type": "diamond",
+      "x": 550,
+      "y": 139,
+      "width": 641,
+      "height": 107,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a2",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2120049684,
+      "version": 41,
+      "versionNonce": 1340523436,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1775738023021,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "CfnuQap2XukHP2I9cJ90T",
+      "type": "rectangle",
+      "x": 503,
+      "y": 114,
+      "width": 410.00000000000006,
+      "height": 286,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a3",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 671931028,
+      "version": 417,
+      "versionNonce": 1853772564,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "rWxmKKfALDPAI5JncaHEf"
+        }
+      ],
+      "updated": 1775738086366,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "rWxmKKfALDPAI5JncaHEf",
+      "type": "text",
+      "x": 594.5666656494141,
+      "y": 244.5,
+      "width": 226.86666870117188,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a4",
+      "roundness": null,
+      "seed": 1208645396,
+      "version": 396,
+      "versionNonce": 720031892,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775738086366,
+      "link": null,
+      "locked": false,
+      "text": "@Функция Б, декоратор",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "CfnuQap2XukHP2I9cJ90T",
+      "originalText": "@Функция Б, декоратор",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "7BFGJjYiKuC3Qm2XmyHJv",
+      "type": "text",
+      "x": 1128,
+      "y": 40.5,
+      "width": 741.2000122070312,
+      "height": 595,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a5",
+      "roundness": null,
+      "seed": 1514399380,
+      "version": 54,
+      "versionNonce": 917646892,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775738522200,
+      "link": null,
+      "locked": false,
+      "text": "\ndef debug_decorator(func):\n    \n    def wrapper(*args, **kwargs):\n        print(\"Вызов функции: \", func.__name__)\n        print(\"Аргументы: \", args, kwargs)\n        result = func(*args, **kwargs)\n        print(\"Результат: \", result)\n        return result\n    return wrapper\n    \n\n@debug_decorator\ndef add_numbers(x: int, y: int) -> int:\n    return x + y\n\nprint(add_numbers(5, 15))",
+      "fontSize": 28,
+      "fontFamily": 8,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "\ndef debug_decorator(func):\n    \n    def wrapper(*args, **kwargs):\n        print(\"Вызов функции: \", func.__name__)\n        print(\"Аргументы: \", args, kwargs)\n        result = func(*args, **kwargs)\n        print(\"Результат: \", result)\n        return result\n    return wrapper\n    \n\n@debug_decorator\ndef add_numbers(x: int, y: int) -> int:\n    return x + y\n\nprint(add_numbers(5, 15))",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "1P1grTKKF8OpgZT-3Q2mj",
+      "type": "rectangle",
+      "x": 1108,
+      "y": 490,
+      "width": 647,
+      "height": 95,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a6",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1779675924,
+      "version": 109,
+      "versionNonce": 1364225812,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "3HBq3ag_hl6SFfcrYTwzm",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1775738553184,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "3HBq3ag_hl6SFfcrYTwzm",
+      "type": "arrow",
+      "x": 769,
+      "y": 549,
+      "width": 346,
+      "height": 67,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a7",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1355894676,
+      "version": 76,
+      "versionNonce": 574845460,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "k0T1pk9vofJjhZx3SC46u"
+        }
+      ],
+      "updated": 1775738570220,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          346,
+          -67
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": {
+        "elementId": "1P1grTKKF8OpgZT-3Q2mj",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.010819165378670788,
+          -0.08421052631578947
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "k0T1pk9vofJjhZx3SC46u",
+      "type": "text",
+      "x": 912.75,
+      "y": 471.5,
+      "width": 168.5,
+      "height": 70,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a8",
+      "roundness": null,
+      "seed": 866534676,
+      "version": 47,
+      "versionNonce": 2002476948,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775738568105,
+      "link": null,
+      "locked": false,
+      "text": "указание\nдекоратора",
+      "fontSize": 28,
+      "fontFamily": 8,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "3HBq3ag_hl6SFfcrYTwzm",
+      "originalText": "указание декоратора",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "EzX1_7XCzZKPZQv0l0ASe",
+      "type": "rectangle",
+      "x": 1120,
+      "y": 460,
+      "width": 25,
+      "height": 30,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a9",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2047173548,
+      "version": 33,
+      "versionNonce": 269374740,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775738576389,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "ygMBHQADD-AHAUWq1BEiy",
+      "type": "image",
+      "x": 1112,
+      "y": 690,
+      "width": 464,
+      "height": 98,
+      "angle": 0,
+      "strokeColor": "transparent",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aA",
+      "roundness": null,
+      "seed": 544054060,
+      "version": 96,
+      "versionNonce": 1281440532,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775738594189,
+      "link": null,
+      "locked": false,
+      "status": "saved",
+      "fileId": "bdcb6e355f99e350a6f9dce1ed86424b2c3abbb5",
+      "scale": [
+        1,
+        1
+      ],
+      "crop": null
+    },
+    {
+      "id": "1ve0xo8tBxVJ4eg0uNkLW",
+      "type": "freedraw",
+      "x": 1127,
+      "y": 514,
+      "width": 114,
+      "height": 279,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aB",
+      "roundness": null,
+      "seed": 561918484,
+      "version": 88,
+      "versionNonce": 1428312492,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1775738621888,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          -1
+        ],
+        [
+          0,
+          -3
+        ],
+        [
+          -1,
+          -6
+        ],
+        [
+          -4,
+          -9
+        ],
+        [
+          -10,
+          -17
+        ],
+        [
+          -14,
+          -22
+        ],
+        [
+          -17,
+          -26
+        ],
+        [
+          -26,
+          -36
+        ],
+        [
+          -30,
+          -42
+        ],
+        [
+          -35,
+          -47
+        ],
+        [
+          -43,
+          -57
+        ],
+        [
+          -49,
+          -65
+        ],
+        [
+          -52,
+          -70
+        ],
+        [
+          -58,
+          -78
+        ],
+        [
+          -60,
+          -83
+        ],
+        [
+          -63,
+          -88
+        ],
+        [
+          -66,
+          -92
+        ],
+        [
+          -70,
+          -101
+        ],
+        [
+          -72,
+          -105
+        ],
+        [
+          -74,
+          -109
+        ],
+        [
+          -76,
+          -113
+        ],
+        [
+          -78,
+          -116
+        ],
+        [
+          -82,
+          -124
+        ],
+        [
+          -87,
+          -131
+        ],
+        [
+          -90,
+          -137
+        ],
+        [
+          -91,
+          -139
+        ],
+        [
+          -92,
+          -142
+        ],
+        [
+          -93,
+          -145
+        ],
+        [
+          -95,
+          -150
+        ],
+        [
+          -96,
+          -153
+        ],
+        [
+          -97,
+          -156
+        ],
+        [
+          -98,
+          -157
+        ],
+        [
+          -101,
+          -163
+        ],
+        [
+          -102,
+          -166
+        ],
+        [
+          -103,
+          -169
+        ],
+        [
+          -104,
+          -171
+        ],
+        [
+          -105,
+          -176
+        ],
+        [
+          -106,
+          -178
+        ],
+        [
+          -106,
+          -181
+        ],
+        [
+          -107,
+          -184
+        ],
+        [
+          -108,
+          -187
+        ],
+        [
+          -111,
+          -193
+        ],
+        [
+          -111,
+          -195
+        ],
+        [
+          -111,
+          -198
+        ],
+        [
+          -111,
+          -200
+        ],
+        [
+          -111,
+          -201
+        ],
+        [
+          -112,
+          -202
+        ],
+        [
+          -112,
+          -204
+        ],
+        [
+          -112,
+          -205
+        ],
+        [
+          -112,
+          -207
+        ],
+        [
+          -112,
+          -208
+        ],
+        [
+          -113,
+          -210
+        ],
+        [
+          -113,
+          -212
+        ],
+        [
+          -113,
+          -215
+        ],
+        [
+          -113,
+          -217
+        ],
+        [
+          -113,
+          -220
+        ],
+        [
+          -113,
+          -222
+        ],
+        [
+          -113,
+          -223
+        ],
+        [
+          -113,
+          -224
+        ],
+        [
+          -113,
+          -226
+        ],
+        [
+          -113,
+          -229
+        ],
+        [
+          -113,
+          -230
+        ],
+        [
+          -113,
+          -231
+        ],
+        [
+          -113,
+          -232
+        ],
+        [
+          -113,
+          -234
+        ],
+        [
+          -114,
+          -235
+        ],
+        [
+          -114,
+          -237
+        ],
+        [
+          -114,
+          -241
+        ],
+        [
+          -114,
+          -244
+        ],
+        [
+          -114,
+          -246
+        ],
+        [
+          -114,
+          -247
+        ],
+        [
+          -114,
+          -252
+        ],
+        [
+          -114,
+          -255
+        ],
+        [
+          -114,
+          -258
+        ],
+        [
+          -114,
+          -261
+        ],
+        [
+          -114,
+          -266
+        ],
+        [
+          -114,
+          -269
+        ],
+        [
+          -114,
+          -271
+        ],
+        [
+          -114,
+          -273
+        ],
+        [
+          -114,
+          -274
+        ],
+        [
+          -114,
+          -276
+        ],
+        [
+          -114,
+          -277
+        ],
+        [
+          -114,
+          -278
+        ],
+        [
+          -114,
+          -279
+        ],
+        [
+          -114,
+          -279
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true
+    },
+    {
+      "id": "fiGTNQ0KSKcgeS0dUoeAq",
+      "type": "freedraw",
+      "x": 1123,
+      "y": 513,
+      "width": 431,
+      "height": 512,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aC",
+      "roundness": null,
+      "seed": 1776473772,
+      "version": 394,
+      "versionNonce": 485821228,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775738631197,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          -1
+        ],
+        [
+          -1,
+          -1
+        ],
+        [
+          -1,
+          -2
+        ],
+        [
+          -3,
+          -5
+        ],
+        [
+          -6,
+          -7
+        ],
+        [
+          -9,
+          -11
+        ],
+        [
+          -13,
+          -16
+        ],
+        [
+          -14,
+          -17
+        ],
+        [
+          -15,
+          -19
+        ],
+        [
+          -16,
+          -20
+        ],
+        [
+          -18,
+          -22
+        ],
+        [
+          -19,
+          -27
+        ],
+        [
+          -21,
+          -28
+        ],
+        [
+          -22,
+          -30
+        ],
+        [
+          -23,
+          -31
+        ],
+        [
+          -25,
+          -34
+        ],
+        [
+          -30,
+          -38
+        ],
+        [
+          -31,
+          -40
+        ],
+        [
+          -33,
+          -42
+        ],
+        [
+          -33,
+          -43
+        ],
+        [
+          -34,
+          -45
+        ],
+        [
+          -35,
+          -46
+        ],
+        [
+          -38,
+          -51
+        ],
+        [
+          -40,
+          -54
+        ],
+        [
+          -41,
+          -57
+        ],
+        [
+          -44,
+          -60
+        ],
+        [
+          -46,
+          -64
+        ],
+        [
+          -47,
+          -67
+        ],
+        [
+          -49,
+          -71
+        ],
+        [
+          -52,
+          -75
+        ],
+        [
+          -56,
+          -83
+        ],
+        [
+          -57,
+          -86
+        ],
+        [
+          -58,
+          -89
+        ],
+        [
+          -59,
+          -91
+        ],
+        [
+          -60,
+          -94
+        ],
+        [
+          -62,
+          -100
+        ],
+        [
+          -63,
+          -104
+        ],
+        [
+          -64,
+          -108
+        ],
+        [
+          -68,
+          -119
+        ],
+        [
+          -70,
+          -123
+        ],
+        [
+          -71,
+          -126
+        ],
+        [
+          -72,
+          -132
+        ],
+        [
+          -73,
+          -135
+        ],
+        [
+          -74,
+          -138
+        ],
+        [
+          -74,
+          -142
+        ],
+        [
+          -76,
+          -150
+        ],
+        [
+          -77,
+          -155
+        ],
+        [
+          -78,
+          -159
+        ],
+        [
+          -79,
+          -164
+        ],
+        [
+          -80,
+          -168
+        ],
+        [
+          -82,
+          -176
+        ],
+        [
+          -83,
+          -179
+        ],
+        [
+          -83,
+          -181
+        ],
+        [
+          -84,
+          -184
+        ],
+        [
+          -85,
+          -189
+        ],
+        [
+          -86,
+          -193
+        ],
+        [
+          -87,
+          -197
+        ],
+        [
+          -89,
+          -207
+        ],
+        [
+          -90,
+          -212
+        ],
+        [
+          -90,
+          -216
+        ],
+        [
+          -91,
+          -219
+        ],
+        [
+          -91,
+          -225
+        ],
+        [
+          -92,
+          -227
+        ],
+        [
+          -92,
+          -229
+        ],
+        [
+          -93,
+          -231
+        ],
+        [
+          -94,
+          -236
+        ],
+        [
+          -94,
+          -237
+        ],
+        [
+          -95,
+          -240
+        ],
+        [
+          -95,
+          -241
+        ],
+        [
+          -95,
+          -243
+        ],
+        [
+          -96,
+          -248
+        ],
+        [
+          -96,
+          -250
+        ],
+        [
+          -96,
+          -251
+        ],
+        [
+          -96,
+          -253
+        ],
+        [
+          -96,
+          -258
+        ],
+        [
+          -96,
+          -260
+        ],
+        [
+          -96,
+          -263
+        ],
+        [
+          -96,
+          -271
+        ],
+        [
+          -97,
+          -274
+        ],
+        [
+          -97,
+          -277
+        ],
+        [
+          -97,
+          -281
+        ],
+        [
+          -97,
+          -285
+        ],
+        [
+          -97,
+          -288
+        ],
+        [
+          -97,
+          -290
+        ],
+        [
+          -97,
+          -292
+        ],
+        [
+          -97,
+          -297
+        ],
+        [
+          -97,
+          -302
+        ],
+        [
+          -97,
+          -304
+        ],
+        [
+          -97,
+          -309
+        ],
+        [
+          -97,
+          -312
+        ],
+        [
+          -97,
+          -313
+        ],
+        [
+          -97,
+          -316
+        ],
+        [
+          -97,
+          -322
+        ],
+        [
+          -97,
+          -326
+        ],
+        [
+          -97,
+          -329
+        ],
+        [
+          -97,
+          -332
+        ],
+        [
+          -97,
+          -336
+        ],
+        [
+          -96,
+          -344
+        ],
+        [
+          -96,
+          -347
+        ],
+        [
+          -95,
+          -352
+        ],
+        [
+          -95,
+          -354
+        ],
+        [
+          -94,
+          -358
+        ],
+        [
+          -94,
+          -359
+        ],
+        [
+          -94,
+          -362
+        ],
+        [
+          -94,
+          -363
+        ],
+        [
+          -94,
+          -366
+        ],
+        [
+          -94,
+          -368
+        ],
+        [
+          -93,
+          -370
+        ],
+        [
+          -93,
+          -373
+        ],
+        [
+          -93,
+          -375
+        ],
+        [
+          -93,
+          -377
+        ],
+        [
+          -92,
+          -379
+        ],
+        [
+          -91,
+          -382
+        ],
+        [
+          -90,
+          -387
+        ],
+        [
+          -90,
+          -389
+        ],
+        [
+          -90,
+          -392
+        ],
+        [
+          -89,
+          -394
+        ],
+        [
+          -89,
+          -395
+        ],
+        [
+          -88,
+          -398
+        ],
+        [
+          -86,
+          -403
+        ],
+        [
+          -86,
+          -404
+        ],
+        [
+          -84,
+          -406
+        ],
+        [
+          -84,
+          -408
+        ],
+        [
+          -83,
+          -412
+        ],
+        [
+          -82,
+          -414
+        ],
+        [
+          -81,
+          -417
+        ],
+        [
+          -80,
+          -419
+        ],
+        [
+          -80,
+          -422
+        ],
+        [
+          -79,
+          -426
+        ],
+        [
+          -78,
+          -428
+        ],
+        [
+          -76,
+          -430
+        ],
+        [
+          -74,
+          -435
+        ],
+        [
+          -74,
+          -436
+        ],
+        [
+          -73,
+          -438
+        ],
+        [
+          -72,
+          -440
+        ],
+        [
+          -71,
+          -442
+        ],
+        [
+          -70,
+          -443
+        ],
+        [
+          -70,
+          -444
+        ],
+        [
+          -69,
+          -446
+        ],
+        [
+          -68,
+          -447
+        ],
+        [
+          -67,
+          -448
+        ],
+        [
+          -66,
+          -449
+        ],
+        [
+          -65,
+          -451
+        ],
+        [
+          -64,
+          -452
+        ],
+        [
+          -63,
+          -454
+        ],
+        [
+          -62,
+          -455
+        ],
+        [
+          -60,
+          -457
+        ],
+        [
+          -58,
+          -459
+        ],
+        [
+          -56,
+          -460
+        ],
+        [
+          -55,
+          -461
+        ],
+        [
+          -51,
+          -463
+        ],
+        [
+          -48,
+          -466
+        ],
+        [
+          -46,
+          -467
+        ],
+        [
+          -44,
+          -469
+        ],
+        [
+          -43,
+          -469
+        ],
+        [
+          -38,
+          -473
+        ],
+        [
+          -36,
+          -474
+        ],
+        [
+          -33,
+          -475
+        ],
+        [
+          -30,
+          -476
+        ],
+        [
+          -26,
+          -478
+        ],
+        [
+          -22,
+          -479
+        ],
+        [
+          -19,
+          -481
+        ],
+        [
+          -17,
+          -482
+        ],
+        [
+          -13,
+          -484
+        ],
+        [
+          -12,
+          -484
+        ],
+        [
+          -10,
+          -485
+        ],
+        [
+          -5,
+          -485
+        ],
+        [
+          -1,
+          -485
+        ],
+        [
+          3,
+          -485
+        ],
+        [
+          6,
+          -486
+        ],
+        [
+          9,
+          -486
+        ],
+        [
+          16,
+          -488
+        ],
+        [
+          20,
+          -489
+        ],
+        [
+          26,
+          -490
+        ],
+        [
+          29,
+          -491
+        ],
+        [
+          33,
+          -492
+        ],
+        [
+          37,
+          -492
+        ],
+        [
+          46,
+          -494
+        ],
+        [
+          52,
+          -494
+        ],
+        [
+          56,
+          -494
+        ],
+        [
+          61,
+          -495
+        ],
+        [
+          65,
+          -496
+        ],
+        [
+          73,
+          -499
+        ],
+        [
+          77,
+          -500
+        ],
+        [
+          80,
+          -501
+        ],
+        [
+          88,
+          -504
+        ],
+        [
+          92,
+          -505
+        ],
+        [
+          95,
+          -506
+        ],
+        [
+          99,
+          -507
+        ],
+        [
+          103,
+          -508
+        ],
+        [
+          110,
+          -509
+        ],
+        [
+          113,
+          -510
+        ],
+        [
+          116,
+          -510
+        ],
+        [
+          119,
+          -510
+        ],
+        [
+          124,
+          -510
+        ],
+        [
+          127,
+          -510
+        ],
+        [
+          130,
+          -510
+        ],
+        [
+          134,
+          -510
+        ],
+        [
+          139,
+          -510
+        ],
+        [
+          142,
+          -510
+        ],
+        [
+          146,
+          -510
+        ],
+        [
+          152,
+          -510
+        ],
+        [
+          157,
+          -510
+        ],
+        [
+          166,
+          -511
+        ],
+        [
+          171,
+          -511
+        ],
+        [
+          175,
+          -511
+        ],
+        [
+          183,
+          -512
+        ],
+        [
+          188,
+          -512
+        ],
+        [
+          193,
+          -512
+        ],
+        [
+          198,
+          -512
+        ],
+        [
+          207,
+          -511
+        ],
+        [
+          212,
+          -510
+        ],
+        [
+          216,
+          -510
+        ],
+        [
+          223,
+          -509
+        ],
+        [
+          227,
+          -509
+        ],
+        [
+          231,
+          -509
+        ],
+        [
+          234,
+          -508
+        ],
+        [
+          239,
+          -507
+        ],
+        [
+          247,
+          -505
+        ],
+        [
+          251,
+          -503
+        ],
+        [
+          255,
+          -502
+        ],
+        [
+          260,
+          -502
+        ],
+        [
+          265,
+          -500
+        ],
+        [
+          267,
+          -499
+        ],
+        [
+          271,
+          -497
+        ],
+        [
+          273,
+          -496
+        ],
+        [
+          278,
+          -493
+        ],
+        [
+          280,
+          -492
+        ],
+        [
+          284,
+          -489
+        ],
+        [
+          287,
+          -488
+        ],
+        [
+          287,
+          -487
+        ],
+        [
+          292,
+          -485
+        ],
+        [
+          299,
+          -481
+        ],
+        [
+          300,
+          -479
+        ],
+        [
+          303,
+          -477
+        ],
+        [
+          307,
+          -474
+        ],
+        [
+          308,
+          -474
+        ],
+        [
+          310,
+          -472
+        ],
+        [
+          310,
+          -471
+        ],
+        [
+          312,
+          -468
+        ],
+        [
+          313,
+          -467
+        ],
+        [
+          314,
+          -466
+        ],
+        [
+          314,
+          -465
+        ],
+        [
+          315,
+          -464
+        ],
+        [
+          316,
+          -463
+        ],
+        [
+          316,
+          -462
+        ],
+        [
+          318,
+          -460
+        ],
+        [
+          319,
+          -459
+        ],
+        [
+          319,
+          -458
+        ],
+        [
+          320,
+          -458
+        ],
+        [
+          320,
+          -456
+        ],
+        [
+          321,
+          -456
+        ],
+        [
+          321,
+          -455
+        ],
+        [
+          322,
+          -454
+        ],
+        [
+          323,
+          -453
+        ],
+        [
+          325,
+          -449
+        ],
+        [
+          326,
+          -449
+        ],
+        [
+          328,
+          -447
+        ],
+        [
+          329,
+          -446
+        ],
+        [
+          330,
+          -445
+        ],
+        [
+          330,
+          -444
+        ],
+        [
+          331,
+          -443
+        ],
+        [
+          331,
+          -444
+        ],
+        [
+          331,
+          -445
+        ],
+        [
+          331,
+          -446
+        ],
+        [
+          331,
+          -447
+        ],
+        [
+          331,
+          -448
+        ],
+        [
+          331,
+          -449
+        ],
+        [
+          331,
+          -450
+        ],
+        [
+          331,
+          -452
+        ],
+        [
+          331,
+          -453
+        ],
+        [
+          332,
+          -453
+        ],
+        [
+          332,
+          -454
+        ],
+        [
+          332,
+          -455
+        ],
+        [
+          332,
+          -456
+        ],
+        [
+          332,
+          -457
+        ],
+        [
+          332,
+          -458
+        ],
+        [
+          332,
+          -459
+        ],
+        [
+          332,
+          -460
+        ],
+        [
+          332,
+          -461
+        ],
+        [
+          332,
+          -462
+        ],
+        [
+          332,
+          -463
+        ],
+        [
+          332,
+          -464
+        ],
+        [
+          332,
+          -465
+        ],
+        [
+          332,
+          -466
+        ],
+        [
+          332,
+          -467
+        ],
+        [
+          332,
+          -468
+        ],
+        [
+          332,
+          -469
+        ],
+        [
+          332,
+          -470
+        ],
+        [
+          332,
+          -471
+        ],
+        [
+          333,
+          -471
+        ],
+        [
+          333,
+          -472
+        ],
+        [
+          333,
+          -473
+        ],
+        [
+          333,
+          -474
+        ],
+        [
+          333,
+          -475
+        ],
+        [
+          333,
+          -476
+        ],
+        [
+          333,
+          -477
+        ],
+        [
+          333,
+          -476
+        ],
+        [
+          333,
+          -475
+        ],
+        [
+          333,
+          -471
+        ],
+        [
+          333,
+          -470
+        ],
+        [
+          333,
+          -469
+        ],
+        [
+          333,
+          -468
+        ],
+        [
+          334,
+          -466
+        ],
+        [
+          334,
+          -465
+        ],
+        [
+          334,
+          -464
+        ],
+        [
+          334,
+          -463
+        ],
+        [
+          334,
+          -462
+        ],
+        [
+          334,
+          -461
+        ],
+        [
+          334,
+          -460
+        ],
+        [
+          334,
+          -459
+        ],
+        [
+          334,
+          -458
+        ],
+        [
+          334,
+          -457
+        ],
+        [
+          334,
+          -456
+        ],
+        [
+          334,
+          -455
+        ],
+        [
+          334,
+          -454
+        ],
+        [
+          334,
+          -453
+        ],
+        [
+          334,
+          -452
+        ],
+        [
+          334,
+          -450
+        ],
+        [
+          334,
+          -449
+        ],
+        [
+          334,
+          -448
+        ],
+        [
+          334,
+          -447
+        ],
+        [
+          334,
+          -446
+        ],
+        [
+          333,
+          -446
+        ],
+        [
+          332,
+          -446
+        ],
+        [
+          331,
+          -446
+        ],
+        [
+          330,
+          -446
+        ],
+        [
+          329,
+          -447
+        ],
+        [
+          328,
+          -447
+        ],
+        [
+          327,
+          -447
+        ],
+        [
+          326,
+          -447
+        ],
+        [
+          325,
+          -448
+        ],
+        [
+          324,
+          -448
+        ],
+        [
+          324,
+          -449
+        ],
+        [
+          323,
+          -449
+        ],
+        [
+          322,
+          -449
+        ],
+        [
+          321,
+          -449
+        ],
+        [
+          320,
+          -449
+        ],
+        [
+          319,
+          -450
+        ],
+        [
+          318,
+          -450
+        ],
+        [
+          317,
+          -450
+        ],
+        [
+          316,
+          -450
+        ],
+        [
+          314,
+          -451
+        ],
+        [
+          313,
+          -451
+        ],
+        [
+          312,
+          -451
+        ],
+        [
+          311,
+          -451
+        ],
+        [
+          310,
+          -451
+        ],
+        [
+          309,
+          -452
+        ],
+        [
+          308,
+          -452
+        ],
+        [
+          306,
+          -452
+        ],
+        [
+          305,
+          -452
+        ],
+        [
+          304,
+          -452
+        ],
+        [
+          303,
+          -452
+        ],
+        [
+          302,
+          -452
+        ],
+        [
+          301,
+          -452
+        ],
+        [
+          300,
+          -452
+        ],
+        [
+          299,
+          -453
+        ],
+        [
+          298,
+          -453
+        ],
+        [
+          297,
+          -454
+        ],
+        [
+          295,
+          -454
+        ],
+        [
+          294,
+          -454
+        ],
+        [
+          293,
+          -454
+        ],
+        [
+          293,
+          -455
+        ],
+        [
+          292,
+          -455
+        ],
+        [
+          293,
+          -455
+        ],
+        [
+          294,
+          -455
+        ],
+        [
+          295,
+          -454
+        ],
+        [
+          296,
+          -454
+        ],
+        [
+          298,
+          -453
+        ],
+        [
+          299,
+          -453
+        ],
+        [
+          300,
+          -453
+        ],
+        [
+          303,
+          -452
+        ],
+        [
+          304,
+          -451
+        ],
+        [
+          305,
+          -451
+        ],
+        [
+          306,
+          -451
+        ],
+        [
+          307,
+          -451
+        ],
+        [
+          309,
+          -450
+        ],
+        [
+          310,
+          -450
+        ],
+        [
+          313,
+          -449
+        ],
+        [
+          314,
+          -448
+        ],
+        [
+          315,
+          -448
+        ],
+        [
+          316,
+          -448
+        ],
+        [
+          318,
+          -448
+        ],
+        [
+          319,
+          -447
+        ],
+        [
+          320,
+          -447
+        ],
+        [
+          321,
+          -447
+        ],
+        [
+          322,
+          -447
+        ],
+        [
+          323,
+          -447
+        ],
+        [
+          325,
+          -447
+        ],
+        [
+          326,
+          -447
+        ],
+        [
+          326,
+          -446
+        ],
+        [
+          326,
+          -446
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true
+    },
+    {
+      "id": "L1UnKxXO3T1MvvMvnc7Xx",
+      "type": "freedraw",
+      "x": 1133,
+      "y": 529,
+      "width": 224,
+      "height": 6,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aD",
+      "roundness": null,
+      "seed": 477442092,
+      "version": 118,
+      "versionNonce": 1280875436,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775738636424,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          -1
+        ],
+        [
+          8,
+          -3
+        ],
+        [
+          11,
+          -4
+        ],
+        [
+          12,
+          -5
+        ],
+        [
+          13,
+          -5
+        ],
+        [
+          15,
+          -5
+        ],
+        [
+          17,
+          -6
+        ],
+        [
+          18,
+          -6
+        ],
+        [
+          20,
+          -6
+        ],
+        [
+          22,
+          -6
+        ],
+        [
+          23,
+          -6
+        ],
+        [
+          25,
+          -6
+        ],
+        [
+          27,
+          -6
+        ],
+        [
+          28,
+          -6
+        ],
+        [
+          29,
+          -6
+        ],
+        [
+          32,
+          -6
+        ],
+        [
+          37,
+          -6
+        ],
+        [
+          38,
+          -6
+        ],
+        [
+          40,
+          -6
+        ],
+        [
+          44,
+          -6
+        ],
+        [
+          45,
+          -6
+        ],
+        [
+          47,
+          -6
+        ],
+        [
+          48,
+          -6
+        ],
+        [
+          50,
+          -6
+        ],
+        [
+          51,
+          -6
+        ],
+        [
+          54,
+          -6
+        ],
+        [
+          55,
+          -6
+        ],
+        [
+          58,
+          -6
+        ],
+        [
+          59,
+          -6
+        ],
+        [
+          60,
+          -6
+        ],
+        [
+          63,
+          -6
+        ],
+        [
+          64,
+          -6
+        ],
+        [
+          65,
+          -6
+        ],
+        [
+          67,
+          -6
+        ],
+        [
+          68,
+          -6
+        ],
+        [
+          70,
+          -6
+        ],
+        [
+          71,
+          -6
+        ],
+        [
+          72,
+          -6
+        ],
+        [
+          74,
+          -6
+        ],
+        [
+          76,
+          -6
+        ],
+        [
+          78,
+          -6
+        ],
+        [
+          81,
+          -6
+        ],
+        [
+          83,
+          -6
+        ],
+        [
+          88,
+          -6
+        ],
+        [
+          90,
+          -6
+        ],
+        [
+          92,
+          -6
+        ],
+        [
+          94,
+          -6
+        ],
+        [
+          95,
+          -6
+        ],
+        [
+          99,
+          -6
+        ],
+        [
+          100,
+          -6
+        ],
+        [
+          101,
+          -6
+        ],
+        [
+          103,
+          -6
+        ],
+        [
+          106,
+          -6
+        ],
+        [
+          107,
+          -5
+        ],
+        [
+          108,
+          -5
+        ],
+        [
+          112,
+          -4
+        ],
+        [
+          113,
+          -4
+        ],
+        [
+          115,
+          -4
+        ],
+        [
+          117,
+          -4
+        ],
+        [
+          120,
+          -4
+        ],
+        [
+          121,
+          -4
+        ],
+        [
+          123,
+          -4
+        ],
+        [
+          124,
+          -4
+        ],
+        [
+          127,
+          -4
+        ],
+        [
+          129,
+          -4
+        ],
+        [
+          131,
+          -4
+        ],
+        [
+          133,
+          -4
+        ],
+        [
+          136,
+          -4
+        ],
+        [
+          141,
+          -4
+        ],
+        [
+          143,
+          -4
+        ],
+        [
+          144,
+          -4
+        ],
+        [
+          149,
+          -4
+        ],
+        [
+          151,
+          -4
+        ],
+        [
+          153,
+          -4
+        ],
+        [
+          156,
+          -4
+        ],
+        [
+          161,
+          -4
+        ],
+        [
+          163,
+          -4
+        ],
+        [
+          166,
+          -4
+        ],
+        [
+          167,
+          -4
+        ],
+        [
+          168,
+          -4
+        ],
+        [
+          169,
+          -4
+        ],
+        [
+          170,
+          -4
+        ],
+        [
+          171,
+          -4
+        ],
+        [
+          172,
+          -4
+        ],
+        [
+          173,
+          -4
+        ],
+        [
+          175,
+          -4
+        ],
+        [
+          176,
+          -4
+        ],
+        [
+          180,
+          -4
+        ],
+        [
+          183,
+          -4
+        ],
+        [
+          184,
+          -4
+        ],
+        [
+          186,
+          -4
+        ],
+        [
+          191,
+          -4
+        ],
+        [
+          192,
+          -4
+        ],
+        [
+          194,
+          -4
+        ],
+        [
+          196,
+          -4
+        ],
+        [
+          198,
+          -4
+        ],
+        [
+          199,
+          -4
+        ],
+        [
+          202,
+          -4
+        ],
+        [
+          203,
+          -4
+        ],
+        [
+          205,
+          -4
+        ],
+        [
+          206,
+          -5
+        ],
+        [
+          207,
+          -5
+        ],
+        [
+          208,
+          -5
+        ],
+        [
+          209,
+          -5
+        ],
+        [
+          210,
+          -5
+        ],
+        [
+          211,
+          -5
+        ],
+        [
+          212,
+          -5
+        ],
+        [
+          213,
+          -5
+        ],
+        [
+          214,
+          -5
+        ],
+        [
+          216,
+          -5
+        ],
+        [
+          218,
+          -4
+        ],
+        [
+          222,
+          -3
+        ],
+        [
+          223,
+          -2
+        ],
+        [
+          224,
+          -2
+        ],
+        [
+          224,
+          -2
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true
+    },
+    {
+      "id": "n7bMrVLoX_lHErDJ3anRB",
+      "type": "line",
+      "x": 1248,
+      "y": 181,
+      "width": 101,
+      "height": 4,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aE",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 850006036,
+      "version": 51,
+      "versionNonce": 1015018900,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775738651899,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          101,
+          -4
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "polygon": false
+    },
+    {
+      "id": "VXRDVwtECCfQPbZqSgdCT",
+      "type": "line",
+      "x": 1377,
+      "y": 529,
+      "width": 197,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#9c36b5",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aF",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 376437012,
+      "version": 67,
+      "versionNonce": 1223284524,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775738669346,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          197,
+          0
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "polygon": false
+    },
+    {
+      "id": "YPyxwAKD1XsB2wp16j9FF",
+      "type": "freedraw",
+      "x": 1594,
+      "y": 525,
+      "width": 85,
+      "height": 77,
+      "angle": 0,
+      "strokeColor": "#9c36b5",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aG",
+      "roundness": null,
+      "seed": 1097215764,
+      "version": 52,
+      "versionNonce": 62887852,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1775738676727,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          5,
+          -3
+        ],
+        [
+          10,
+          -6
+        ],
+        [
+          12,
+          -7
+        ],
+        [
+          14,
+          -8
+        ],
+        [
+          16,
+          -10
+        ],
+        [
+          19,
+          -12
+        ],
+        [
+          20,
+          -14
+        ],
+        [
+          21,
+          -15
+        ],
+        [
+          22,
+          -17
+        ],
+        [
+          24,
+          -20
+        ],
+        [
+          25,
+          -21
+        ],
+        [
+          25,
+          -22
+        ],
+        [
+          27,
+          -24
+        ],
+        [
+          28,
+          -26
+        ],
+        [
+          29,
+          -27
+        ],
+        [
+          29,
+          -28
+        ],
+        [
+          30,
+          -29
+        ],
+        [
+          31,
+          -31
+        ],
+        [
+          33,
+          -33
+        ],
+        [
+          34,
+          -34
+        ],
+        [
+          34,
+          -35
+        ],
+        [
+          37,
+          -38
+        ],
+        [
+          38,
+          -39
+        ],
+        [
+          39,
+          -42
+        ],
+        [
+          43,
+          -45
+        ],
+        [
+          46,
+          -48
+        ],
+        [
+          48,
+          -50
+        ],
+        [
+          52,
+          -53
+        ],
+        [
+          52,
+          -54
+        ],
+        [
+          54,
+          -55
+        ],
+        [
+          56,
+          -56
+        ],
+        [
+          59,
+          -59
+        ],
+        [
+          60,
+          -60
+        ],
+        [
+          61,
+          -61
+        ],
+        [
+          63,
+          -63
+        ],
+        [
+          67,
+          -65
+        ],
+        [
+          69,
+          -66
+        ],
+        [
+          70,
+          -67
+        ],
+        [
+          72,
+          -68
+        ],
+        [
+          76,
+          -71
+        ],
+        [
+          79,
+          -72
+        ],
+        [
+          80,
+          -73
+        ],
+        [
+          81,
+          -74
+        ],
+        [
+          83,
+          -75
+        ],
+        [
+          84,
+          -75
+        ],
+        [
+          84,
+          -76
+        ],
+        [
+          85,
+          -76
+        ],
+        [
+          85,
+          -77
+        ],
+        [
+          85,
+          -77
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true
+    },
+    {
+      "id": "tOHmBmNp8XxBt7GnOIg19",
+      "type": "freedraw",
+      "x": 1583,
+      "y": 529,
+      "width": 485,
+      "height": 458,
+      "angle": 0,
+      "strokeColor": "#9c36b5",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aH",
+      "roundness": null,
+      "seed": 442932396,
+      "version": 384,
+      "versionNonce": 2047638700,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775738683805,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          -1
+        ],
+        [
+          1,
+          -3
+        ],
+        [
+          2,
+          -3
+        ],
+        [
+          3,
+          -3
+        ],
+        [
+          8,
+          -5
+        ],
+        [
+          11,
+          -6
+        ],
+        [
+          14,
+          -7
+        ],
+        [
+          17,
+          -8
+        ],
+        [
+          22,
+          -9
+        ],
+        [
+          22,
+          -10
+        ],
+        [
+          23,
+          -10
+        ],
+        [
+          24,
+          -11
+        ],
+        [
+          26,
+          -13
+        ],
+        [
+          27,
+          -13
+        ],
+        [
+          27,
+          -14
+        ],
+        [
+          28,
+          -15
+        ],
+        [
+          29,
+          -16
+        ],
+        [
+          30,
+          -17
+        ],
+        [
+          31,
+          -18
+        ],
+        [
+          34,
+          -22
+        ],
+        [
+          34,
+          -23
+        ],
+        [
+          36,
+          -26
+        ],
+        [
+          38,
+          -28
+        ],
+        [
+          40,
+          -30
+        ],
+        [
+          41,
+          -32
+        ],
+        [
+          44,
+          -34
+        ],
+        [
+          45,
+          -36
+        ],
+        [
+          46,
+          -37
+        ],
+        [
+          47,
+          -38
+        ],
+        [
+          52,
+          -42
+        ],
+        [
+          53,
+          -44
+        ],
+        [
+          56,
+          -46
+        ],
+        [
+          58,
+          -47
+        ],
+        [
+          59,
+          -49
+        ],
+        [
+          60,
+          -49
+        ],
+        [
+          62,
+          -51
+        ],
+        [
+          66,
+          -54
+        ],
+        [
+          70,
+          -56
+        ],
+        [
+          72,
+          -58
+        ],
+        [
+          77,
+          -61
+        ],
+        [
+          78,
+          -62
+        ],
+        [
+          81,
+          -62
+        ],
+        [
+          85,
+          -65
+        ],
+        [
+          87,
+          -65
+        ],
+        [
+          90,
+          -68
+        ],
+        [
+          93,
+          -68
+        ],
+        [
+          98,
+          -70
+        ],
+        [
+          101,
+          -72
+        ],
+        [
+          105,
+          -73
+        ],
+        [
+          108,
+          -74
+        ],
+        [
+          112,
+          -76
+        ],
+        [
+          116,
+          -78
+        ],
+        [
+          118,
+          -79
+        ],
+        [
+          119,
+          -79
+        ],
+        [
+          123,
+          -81
+        ],
+        [
+          126,
+          -82
+        ],
+        [
+          129,
+          -83
+        ],
+        [
+          132,
+          -85
+        ],
+        [
+          141,
+          -88
+        ],
+        [
+          145,
+          -89
+        ],
+        [
+          148,
+          -90
+        ],
+        [
+          152,
+          -92
+        ],
+        [
+          158,
+          -96
+        ],
+        [
+          162,
+          -97
+        ],
+        [
+          167,
+          -99
+        ],
+        [
+          171,
+          -101
+        ],
+        [
+          175,
+          -103
+        ],
+        [
+          183,
+          -107
+        ],
+        [
+          187,
+          -110
+        ],
+        [
+          191,
+          -112
+        ],
+        [
+          197,
+          -116
+        ],
+        [
+          201,
+          -118
+        ],
+        [
+          203,
+          -121
+        ],
+        [
+          206,
+          -123
+        ],
+        [
+          209,
+          -126
+        ],
+        [
+          215,
+          -131
+        ],
+        [
+          218,
+          -132
+        ],
+        [
+          220,
+          -134
+        ],
+        [
+          227,
+          -140
+        ],
+        [
+          231,
+          -142
+        ],
+        [
+          234,
+          -145
+        ],
+        [
+          237,
+          -146
+        ],
+        [
+          242,
+          -150
+        ],
+        [
+          245,
+          -152
+        ],
+        [
+          247,
+          -154
+        ],
+        [
+          250,
+          -156
+        ],
+        [
+          256,
+          -162
+        ],
+        [
+          261,
+          -164
+        ],
+        [
+          264,
+          -167
+        ],
+        [
+          265,
+          -168
+        ],
+        [
+          269,
+          -171
+        ],
+        [
+          271,
+          -173
+        ],
+        [
+          275,
+          -177
+        ],
+        [
+          278,
+          -180
+        ],
+        [
+          285,
+          -187
+        ],
+        [
+          288,
+          -190
+        ],
+        [
+          289,
+          -191
+        ],
+        [
+          292,
+          -193
+        ],
+        [
+          298,
+          -200
+        ],
+        [
+          304,
+          -206
+        ],
+        [
+          306,
+          -210
+        ],
+        [
+          311,
+          -216
+        ],
+        [
+          314,
+          -221
+        ],
+        [
+          316,
+          -225
+        ],
+        [
+          317,
+          -228
+        ],
+        [
+          320,
+          -236
+        ],
+        [
+          322,
+          -239
+        ],
+        [
+          323,
+          -242
+        ],
+        [
+          325,
+          -246
+        ],
+        [
+          326,
+          -248
+        ],
+        [
+          328,
+          -254
+        ],
+        [
+          330,
+          -257
+        ],
+        [
+          331,
+          -261
+        ],
+        [
+          334,
+          -268
+        ],
+        [
+          335,
+          -271
+        ],
+        [
+          336,
+          -274
+        ],
+        [
+          337,
+          -277
+        ],
+        [
+          338,
+          -280
+        ],
+        [
+          339,
+          -286
+        ],
+        [
+          340,
+          -289
+        ],
+        [
+          341,
+          -292
+        ],
+        [
+          342,
+          -299
+        ],
+        [
+          342,
+          -302
+        ],
+        [
+          343,
+          -305
+        ],
+        [
+          344,
+          -308
+        ],
+        [
+          346,
+          -315
+        ],
+        [
+          347,
+          -319
+        ],
+        [
+          347,
+          -321
+        ],
+        [
+          347,
+          -324
+        ],
+        [
+          348,
+          -330
+        ],
+        [
+          348,
+          -333
+        ],
+        [
+          349,
+          -335
+        ],
+        [
+          349,
+          -337
+        ],
+        [
+          349,
+          -343
+        ],
+        [
+          349,
+          -346
+        ],
+        [
+          350,
+          -349
+        ],
+        [
+          350,
+          -352
+        ],
+        [
+          351,
+          -358
+        ],
+        [
+          351,
+          -361
+        ],
+        [
+          351,
+          -362
+        ],
+        [
+          352,
+          -364
+        ],
+        [
+          352,
+          -367
+        ],
+        [
+          352,
+          -369
+        ],
+        [
+          352,
+          -371
+        ],
+        [
+          352,
+          -372
+        ],
+        [
+          352,
+          -376
+        ],
+        [
+          352,
+          -377
+        ],
+        [
+          352,
+          -378
+        ],
+        [
+          352,
+          -381
+        ],
+        [
+          351,
+          -386
+        ],
+        [
+          351,
+          -387
+        ],
+        [
+          350,
+          -388
+        ],
+        [
+          350,
+          -390
+        ],
+        [
+          348,
+          -391
+        ],
+        [
+          345,
+          -394
+        ],
+        [
+          341,
+          -397
+        ],
+        [
+          339,
+          -400
+        ],
+        [
+          337,
+          -401
+        ],
+        [
+          336,
+          -402
+        ],
+        [
+          333,
+          -404
+        ],
+        [
+          332,
+          -404
+        ],
+        [
+          331,
+          -404
+        ],
+        [
+          331,
+          -405
+        ],
+        [
+          327,
+          -407
+        ],
+        [
+          325,
+          -409
+        ],
+        [
+          322,
+          -410
+        ],
+        [
+          319,
+          -411
+        ],
+        [
+          315,
+          -412
+        ],
+        [
+          312,
+          -413
+        ],
+        [
+          306,
+          -415
+        ],
+        [
+          300,
+          -416
+        ],
+        [
+          289,
+          -419
+        ],
+        [
+          285,
+          -421
+        ],
+        [
+          280,
+          -423
+        ],
+        [
+          276,
+          -424
+        ],
+        [
+          269,
+          -426
+        ],
+        [
+          266,
+          -427
+        ],
+        [
+          264,
+          -427
+        ],
+        [
+          259,
+          -428
+        ],
+        [
+          251,
+          -430
+        ],
+        [
+          247,
+          -432
+        ],
+        [
+          243,
+          -433
+        ],
+        [
+          238,
+          -434
+        ],
+        [
+          228,
+          -437
+        ],
+        [
+          223,
+          -437
+        ],
+        [
+          219,
+          -439
+        ],
+        [
+          215,
+          -439
+        ],
+        [
+          205,
+          -441
+        ],
+        [
+          200,
+          -442
+        ],
+        [
+          195,
+          -443
+        ],
+        [
+          190,
+          -445
+        ],
+        [
+          181,
+          -446
+        ],
+        [
+          176,
+          -446
+        ],
+        [
+          171,
+          -447
+        ],
+        [
+          165,
+          -447
+        ],
+        [
+          154,
+          -449
+        ],
+        [
+          150,
+          -449
+        ],
+        [
+          144,
+          -449
+        ],
+        [
+          140,
+          -450
+        ],
+        [
+          129,
+          -452
+        ],
+        [
+          125,
+          -452
+        ],
+        [
+          121,
+          -453
+        ],
+        [
+          116,
+          -453
+        ],
+        [
+          108,
+          -454
+        ],
+        [
+          104,
+          -454
+        ],
+        [
+          100,
+          -455
+        ],
+        [
+          96,
+          -456
+        ],
+        [
+          88,
+          -456
+        ],
+        [
+          85,
+          -457
+        ],
+        [
+          82,
+          -457
+        ],
+        [
+          80,
+          -457
+        ],
+        [
+          75,
+          -457
+        ],
+        [
+          72,
+          -457
+        ],
+        [
+          70,
+          -457
+        ],
+        [
+          67,
+          -457
+        ],
+        [
+          64,
+          -457
+        ],
+        [
+          57,
+          -457
+        ],
+        [
+          53,
+          -457
+        ],
+        [
+          47,
+          -457
+        ],
+        [
+          35,
+          -458
+        ],
+        [
+          31,
+          -458
+        ],
+        [
+          27,
+          -458
+        ],
+        [
+          24,
+          -458
+        ],
+        [
+          22,
+          -458
+        ],
+        [
+          19,
+          -458
+        ],
+        [
+          18,
+          -457
+        ],
+        [
+          16,
+          -457
+        ],
+        [
+          9,
+          -455
+        ],
+        [
+          5,
+          -455
+        ],
+        [
+          2,
+          -454
+        ],
+        [
+          -1,
+          -454
+        ],
+        [
+          -4,
+          -454
+        ],
+        [
+          -7,
+          -453
+        ],
+        [
+          -8,
+          -452
+        ],
+        [
+          -9,
+          -452
+        ],
+        [
+          -13,
+          -451
+        ],
+        [
+          -13,
+          -450
+        ],
+        [
+          -16,
+          -449
+        ],
+        [
+          -18,
+          -448
+        ],
+        [
+          -21,
+          -447
+        ],
+        [
+          -25,
+          -446
+        ],
+        [
+          -27,
+          -444
+        ],
+        [
+          -29,
+          -442
+        ],
+        [
+          -32,
+          -442
+        ],
+        [
+          -34,
+          -440
+        ],
+        [
+          -35,
+          -440
+        ],
+        [
+          -37,
+          -439
+        ],
+        [
+          -38,
+          -438
+        ],
+        [
+          -39,
+          -438
+        ],
+        [
+          -39,
+          -437
+        ],
+        [
+          -40,
+          -437
+        ],
+        [
+          -43,
+          -435
+        ],
+        [
+          -44,
+          -435
+        ],
+        [
+          -47,
+          -434
+        ],
+        [
+          -49,
+          -433
+        ],
+        [
+          -49,
+          -432
+        ],
+        [
+          -52,
+          -430
+        ],
+        [
+          -53,
+          -429
+        ],
+        [
+          -56,
+          -427
+        ],
+        [
+          -58,
+          -426
+        ],
+        [
+          -59,
+          -425
+        ],
+        [
+          -61,
+          -424
+        ],
+        [
+          -64,
+          -423
+        ],
+        [
+          -65,
+          -422
+        ],
+        [
+          -66,
+          -421
+        ],
+        [
+          -67,
+          -421
+        ],
+        [
+          -69,
+          -419
+        ],
+        [
+          -71,
+          -419
+        ],
+        [
+          -73,
+          -418
+        ],
+        [
+          -74,
+          -417
+        ],
+        [
+          -76,
+          -416
+        ],
+        [
+          -78,
+          -415
+        ],
+        [
+          -79,
+          -414
+        ],
+        [
+          -80,
+          -414
+        ],
+        [
+          -84,
+          -411
+        ],
+        [
+          -87,
+          -409
+        ],
+        [
+          -91,
+          -407
+        ],
+        [
+          -92,
+          -406
+        ],
+        [
+          -93,
+          -406
+        ],
+        [
+          -95,
+          -404
+        ],
+        [
+          -97,
+          -403
+        ],
+        [
+          -100,
+          -402
+        ],
+        [
+          -101,
+          -402
+        ],
+        [
+          -102,
+          -401
+        ],
+        [
+          -104,
+          -400
+        ],
+        [
+          -105,
+          -399
+        ],
+        [
+          -106,
+          -399
+        ],
+        [
+          -107,
+          -398
+        ],
+        [
+          -108,
+          -398
+        ],
+        [
+          -109,
+          -397
+        ],
+        [
+          -111,
+          -397
+        ],
+        [
+          -112,
+          -395
+        ],
+        [
+          -113,
+          -395
+        ],
+        [
+          -117,
+          -391
+        ],
+        [
+          -118,
+          -390
+        ],
+        [
+          -119,
+          -390
+        ],
+        [
+          -121,
+          -388
+        ],
+        [
+          -122,
+          -387
+        ],
+        [
+          -123,
+          -387
+        ],
+        [
+          -123,
+          -386
+        ],
+        [
+          -124,
+          -386
+        ],
+        [
+          -124,
+          -385
+        ],
+        [
+          -124,
+          -384
+        ],
+        [
+          -125,
+          -383
+        ],
+        [
+          -125,
+          -382
+        ],
+        [
+          -126,
+          -382
+        ],
+        [
+          -126,
+          -381
+        ],
+        [
+          -126,
+          -382
+        ],
+        [
+          -124,
+          -383
+        ],
+        [
+          -122,
+          -386
+        ],
+        [
+          -118,
+          -388
+        ],
+        [
+          -117,
+          -388
+        ],
+        [
+          -115,
+          -390
+        ],
+        [
+          -110,
+          -392
+        ],
+        [
+          -108,
+          -393
+        ],
+        [
+          -106,
+          -394
+        ],
+        [
+          -104,
+          -394
+        ],
+        [
+          -99,
+          -396
+        ],
+        [
+          -95,
+          -396
+        ],
+        [
+          -92,
+          -396
+        ],
+        [
+          -91,
+          -396
+        ],
+        [
+          -87,
+          -396
+        ],
+        [
+          -84,
+          -396
+        ],
+        [
+          -82,
+          -396
+        ],
+        [
+          -79,
+          -396
+        ],
+        [
+          -71,
+          -396
+        ],
+        [
+          -68,
+          -396
+        ],
+        [
+          -66,
+          -396
+        ],
+        [
+          -65,
+          -396
+        ],
+        [
+          -67,
+          -397
+        ],
+        [
+          -70,
+          -397
+        ],
+        [
+          -71,
+          -397
+        ],
+        [
+          -74,
+          -397
+        ],
+        [
+          -81,
+          -397
+        ],
+        [
+          -84,
+          -397
+        ],
+        [
+          -86,
+          -397
+        ],
+        [
+          -89,
+          -397
+        ],
+        [
+          -94,
+          -397
+        ],
+        [
+          -97,
+          -397
+        ],
+        [
+          -100,
+          -397
+        ],
+        [
+          -103,
+          -397
+        ],
+        [
+          -108,
+          -397
+        ],
+        [
+          -111,
+          -396
+        ],
+        [
+          -113,
+          -396
+        ],
+        [
+          -116,
+          -395
+        ],
+        [
+          -120,
+          -394
+        ],
+        [
+          -121,
+          -394
+        ],
+        [
+          -122,
+          -393
+        ],
+        [
+          -124,
+          -392
+        ],
+        [
+          -125,
+          -391
+        ],
+        [
+          -127,
+          -389
+        ],
+        [
+          -128,
+          -389
+        ],
+        [
+          -127,
+          -392
+        ],
+        [
+          -125,
+          -394
+        ],
+        [
+          -123,
+          -397
+        ],
+        [
+          -122,
+          -400
+        ],
+        [
+          -121,
+          -403
+        ],
+        [
+          -120,
+          -405
+        ],
+        [
+          -118,
+          -409
+        ],
+        [
+          -118,
+          -411
+        ],
+        [
+          -117,
+          -414
+        ],
+        [
+          -117,
+          -415
+        ],
+        [
+          -116,
+          -419
+        ],
+        [
+          -115,
+          -422
+        ],
+        [
+          -115,
+          -424
+        ],
+        [
+          -115,
+          -423
+        ],
+        [
+          -115,
+          -422
+        ],
+        [
+          -116,
+          -420
+        ],
+        [
+          -118,
+          -414
+        ],
+        [
+          -120,
+          -411
+        ],
+        [
+          -121,
+          -407
+        ],
+        [
+          -123,
+          -404
+        ],
+        [
+          -127,
+          -396
+        ],
+        [
+          -128,
+          -390
+        ],
+        [
+          -130,
+          -386
+        ],
+        [
+          -131,
+          -383
+        ],
+        [
+          -132,
+          -380
+        ],
+        [
+          -132,
+          -379
+        ],
+        [
+          -133,
+          -378
+        ],
+        [
+          -133,
+          -377
+        ],
+        [
+          -133,
+          -376
+        ],
+        [
+          -133,
+          -376
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true
+    },
+    {
+      "id": "hU8zkefOKDzCfPlHzEJJx",
+      "type": "rectangle",
+      "x": 1244,
+      "y": 249,
+      "width": 473,
+      "height": 39,
+      "angle": 0,
+      "strokeColor": "#0c8599",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aI",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1996670636,
+      "version": 108,
+      "versionNonce": 1284263340,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775738829678,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "6kAq5L7GqFV1rg8vJaRGj",
+      "type": "rectangle",
+      "x": 1180,
+      "y": 534,
+      "width": 215,
+      "height": 31,
+      "angle": 0,
+      "strokeColor": "#0c8599",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aJ",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1409143468,
+      "version": 57,
+      "versionNonce": 765745172,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1775738834468,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "DdurCAbuDgxk8SjMyBNcD",
+      "type": "text",
+      "x": 1199,
+      "y": 882.5,
+      "width": 800.7999877929688,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#0c8599",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aK",
+      "roundness": null,
+      "seed": 1745275796,
+      "version": 5,
+      "versionNonce": 1418452908,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1775747414104,
+      "link": null,
+      "locked": false,
+      "text": "https://habr.com/ru/companies/slurm/articles/748176/",
+      "fontSize": 28,
+      "fontFamily": 8,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "https://habr.com/ru/companies/slurm/articles/748176/",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "13irvBFjLCyFhtqvtgu-u",
+      "type": "text",
+      "x": 1183,
+      "y": 930.5,
+      "width": 677.5999755859375,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#0c8599",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aL",
+      "roundness": null,
+      "seed": 463867028,
+      "version": 34,
+      "versionNonce": 1202880556,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1775747413314,
+      "link": null,
+      "locked": false,
+      "text": "https://metanit.com/python/tutorial/2.19.php",
+      "fontSize": 28,
+      "fontFamily": 8,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "https://metanit.com/python/tutorial/2.19.php",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff",
+    "lockedMultiSelections": {}
+  },
+  "files": {
+    "bdcb6e355f99e350a6f9dce1ed86424b2c3abbb5": {
+      "mimeType": "image/png",
+      "id": "bdcb6e355f99e350a6f9dce1ed86424b2c3abbb5",
+      "dataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAdAAAABiCAYAAADgKILKAAAgAElEQVR4Xu1dB3gVRRe9gIKAdJTepSO9gygqqIj03kG6tBAIBEJCSCCEQAKh9957rwpSBKQ36RCa9N5B8L9n+Gfd9/KSvFRS7uXzE97btztzdnfO3Dt37olXtGTVfykYq/zNj1S7fkv64IMP6cXzZ7R+7RKq8n0tOn5kP82aPlr9slbd5lT1hzo2zzJpnDcdPrjH+K6Piw9ly/6ZzWPv3btNLk7tbX5XptxX1PLn7uQ1yJGuXL5gHJMhYxaqVa8F5S9QRLUR55g4dijVqNWUCn5enJYsnEa/bV5NX31djRo0aUf9ndrR/Xt3jN/3c/Ojp08e0agRbsZn8eLFo4Z8bPGSFejjZMnp9evXdP7sXzRrxmh6cO9uqPsy3H82JUnysc1+HTuyj8aPHmJ8lzVbLm5nW8qeIzfFj5+AHj16QAf37aLFC6bSv/++u1VOzt6UPVcem+dz7NaMnj97anyXIkUqatGmG32WpyB9+OGH9OTxI9r/5w6L85lPVKdBK/q2ak06c/o4jfQZEOgaX1epQbUZ78Fu3enGjWs221Dl+9rqmJHDXenMqWMWxyRjPIf6zqAjh/YSno3IuC8ZM2WlDr/0pU8+zaCuHXD+DO3fv4vqNWxNntzuv69dNtpUpnxl+o6f3fQZMqvPbnKftmxaSbu2bw7Ut6QfJyOv4dP4OfuA/Hxc6OzpE8G9OqH6rtJX31OjZh1oQN8OdPfOrUC/xXc45iL3xcerj13n9vabQSeOHjDeU/OPUqVOS+5DxqlnbPyYIeq40Fqzlr9Q+S++DfFnbv060+1b1wnvFcaSUmUqEZ7Lt2/f0KWL52npoml04fxp4zw16zSj76rVpW4dG9A//7xWn2fPmUfd048/Tk5dO9Qzjs2dtyDVbdCasmTNqc6P62xav5x27fjv/n3/Yz2qUbupet6AY/LkKdXvjx7+k2ZMGUkvXjxX/06Y6CNq0OhnKlK8LCVN+rF6j5YunqGOr16zER1njCaM8bLoL541F/dRNHOaP+39Y6tNLPCM471J+0k69Q5fCjhHi+dPoYsXzhjH29vGEMHmA0qXrcTvfHf1rN+4flX9JCuPuU2adySML8BoycLphLEnNNat50CFxZ7d26h6jYYKrzdv3tDG9Utp7coFxvhkPueAQf78HqYn514/8zj72OblEvF5mrToREWLl1NjlLbObWurv2bMlI0xHkkzp46ivXxtbfX5Xn3J2HZpX9f4LH68BNSoeTsqVrw84X19/eoVnT59jGZP9afHPM5ra9+5D2XOkoNcnTsanyVOkpRG+M+h1Svm0fo1i9XnqdN8orig4Ocl+F2Jrz4DfssWz1RjWLyQCFQ9WAkTUpq06enWzWsKsPdhQRGobstHHyWmj5IksSC48LYTL2SatJ/So4f36RXfiKg09Afkfef2zQi5bEJ+MFPyoHn71g2bD7q9F8ED6uw2nD75JD39deIwnTp5VD2k165doss8MESF2XtfcO/QNkxCQrLkKd4Nqo8ehnxsSOeKrO9Beg/u3w3X/TO3DQMGsxg9/z+BhLbdIFBMUjE42jL9zmoCNR8DMsFkTpNXaK9tfTwGyw95nDJPcPUxmpx6d29OT58+oU/TZeBrP6Znz57YvCye8dRp06qJjJ60hrd9+H3q1J+o/tq6bmjbGNb2hOcZ0gTqObAHJUiQgHHMSHdv36BX7GDYssQ8hnmNmEaH2IEC+UWlYYzABPre3dvGJCw814dzBjJ9/PihhYNiF4GG58IR9Vv9MmLGEFGkElFti2vnwSy0cNHSVKBQMcNTxowfMzexuINAeAg0KlGyJqeovLa914oJbTQTqD390tElnyF9LLxte34bU46JtgSKUEtZDttqi88znut/X1EhXDFBQBB4/wgUL1lezfI3rltqszEIF5Ys84X6PqjwXVT0IiaQU0xoo70E2qa9IxUuUpI+4KjX/j93cZjcLypu83u5RrQl0Fy581OGDFkMUO4/uEsnjx2mt/++nxDye7k7clFBQBAINwKZs2TnSEke2sNrlHpNNdwnjeATxIQ2IuKUKFFiOnTgj2B7nzd/YbXee51zDQIunIvVY3a0JdAIfj7ldIKAICAICAKCQIQiIAQaoXDKyQQBQUAQEATiCgJCoHHlTks/BQFBQBAQBCIUASHQCIVTTiYICAKCgCAQVxAQAo0rd1r6KQgIAoKAIBChCAiBBgNnMq56koo341+9dDFWZ5JF6BMVTU+WJ28hqlqtDs2fPZE3yAddnAIVaFq360k7ft+oKo3EFEOlHRQTmD97QkxpsrRTEIjxCARLoE1bdKYKlaoYnURVDlTnwKb5TeuXRWiVjuiIZNkKX1OL1l2pd48W73UfW3TEJqa1qSyX7ENJwyHuDnT1SkCQzUe1EU/vSarU4dYta2JMN+3doxdjOiQNFQRiAAJ2ESjq/qFuJepQogIN6j+iluJvm1fFgC6GvYlCoGHHLrr9Ugg0ut0RaY8gEPMRsItAUbxZ18BNliwFDRk+leuenre7qHVMhUkINKbeucDtFgKNPfdSeiIIRBcEQk2gaLir5xh6+88/hKLCsB69BtHZM3/R2lULAvWrO38HRQ5d3R6lv6r91IBysLoC/v7wwT2l1rJ+zSIu1PtftXycCBUtoECRN//nqgj0qb+O0Ma1S5XiiracufIqlRWzPeNjDx3YTX/s3BLq4veZMmWn1u0dlOrAOVZgKcrKDLt3/UolWJnlDKtvTBo3lKuZ/EMovVW4cCka7TcwUDHunzs4qiLmWq0GZQlRHB7KD9qgRtGpW3/asnEFl7vaqT7WfZk3azxdvnRefYYi8B269KM7vG6n17egdJKBowDjRnka58uQMSur1XRTKgFaAQXVTZq16kJLFkxTfYGhyDJUbVKmTK3UUrQ59R+mVFqgXKMNChJQdpg2aQQLCVy3wPiz3AXU9V6+fEnDuNblq5cvIv2ZhqLMl5V/oNz8/3/evOY1yj+VOoN1EXusBTZu1pHyFSis7sPRw/vo8uXzhCUJcwg3frz49FOdpqwO8gUlSZyUzjJGm1nJo2efwWEK4ZYsXZG+/a4WrVo+lyp/U52w7vqQhQg2b1iu1lT/e2bzKcWdBXMncaWW/xQ51H3l+zjO/919rcPKJSlTpaWPEidWfUYlHRyP9U6cd9G8yRRw8aw6VodwVy6bQz/8WJ8yZ8uhlGXWrV6k3gWzpeB7/wM/v/kKFCWo45zm9/P339ap/2tryeFuPGPaViybTR9xFZoSpSqqKjNYH97Aykww/BsKKjly5iWcG6ITF86dVrWR7SnkH+kPjlxAEIgkBEJNoLk+y0eOfb1UfUu8rDDIdWGQmsWSPtbmM2o2S5/tU3I/CP2CUCETdHD/H+rlAmmULP2FkhYySwXlzJVPHfvo4T3at3cHJWfCKV6iHN1nNYrhQ52NivgFChajLg6ual321s2/+fLxFOHi86kTR9CBfe/IyV7r3M2FpZNy03oeeCrxYJ0ufSZF8JAFAmmCxDAYahwWsSzRtl/XGqfPki0nOQ8YYciomQc3PeHAZ7bW2nRfxvgNYqWTQ+qcteu1pG+q1lAkpYmiXafearDq17utcV3In4EEzX3WbTRLymnZLNwDSJ9pGzNpCW3fuoHQHxjIt4/LcKW6YGvdUEuW4VgP126qTnFkGvrn0NuTrvH65UEuJQalGkiRQfHBw62HRWKQlswDuRw/ul9JOH2Wp4CSlDP3RUu3QbFh397tSmIrDz87UM0IyxoopP/qN26rJnj79mxXk5XSZb9kEkxDY0d50IljBxVEKInWpYermnydPHHEgK1dJyfKluMzQ9IPkkuYwIGoIL1UqHAJ+vvqJSUnBbmvk/yMTJvkq34PAoXkF6T6ILuFSUSJUhVYSSkR+bNUnyZHKLA4Og2mj5OnUKT5ltVYIEmWMkVq8vd1o/PnTqnz4TmBcgcmWsAZ7ytq36JvN69foyP8vm7ful4d6zF0Ak8Qk6j34g6rc2ASAMmyly+f06ABXUM9iY3M50jOLQhEJAJ2ESj065BAhJcSMlZ4mebOGGN4XvYSKHTfvuJBZvu2DRaSMNAl5NGG3Jw7GX2DTide4L49WxkvILT/MIjCm9XKH7ZIB9fxHTOP/uSBBsQdGhs2cibt3vkbLV8yU7W1AQ+IWqMRnvfF86do9vQx6pRoI7QhMUhoa9qysxo8IPGkdTltJXjYQ6AgjV7OQ+lX1qdcvmSWaaANG4GmSZtO6epBmgceY1AECtIECWEgDIpA8SxUrFRVyWuZNfpCg3VojgURYFDfvnWdIZ8EcmrVtgfBY9+5fZM6Xb6CRaibw0A1mJszUjt17UefFyllEKiSWvKdruSOMAHQslWYrEBfMjwEiokgJoQwEF8/N18VxdDPTWgIFJPOgf1/IXj88Iz1BE7pnfK7qCdleMYQsfHgZ1HrtEK2a+DgcWoyhkkZDJ4ivOTBHD3SWpHAdihjcf3alUDLMpjg4hmEFjB0Q89xpMks8ZWeJ5h4L9asmE/rOIqkDfJw8OqD0owNzb2XYwWB6IqAXQSKsN7bf99yODEhgcTSpPmUVq+czwP7uyQiEOjLFy+U0DX0JvdxKFB7S2YPVIMA8kCIFGK+eEEhsotrLF00XR2CFxoEiEFn7kwm1/8bZvRYf8UsfLSfu/pUEyg8p/NnT8IBpUIsflq9ZmOlQffnnt/txh46gKMnLVaDJ7xK6zXQrjxIvWU9VHgTMGQoIywI4WkIUOtBGSHZOTzB0IbBLQ2Huab/31vA55gcwOMwD9S6L1pstzlnAMO8PRwtNPfC4oEi5AaPHt4VQrzF2JsPikB/rNFIedsb1i4m/D2kzFW7AY6AA/EMJOGtJgiJ4xnq3c9bRUK0IgjE3uG1+3r3N8LWuKy+l7ovEBjuy5ME64EfGqIeQyeGi0Bd+rRXxKzNC88se+ijfQe+e2ZD4YEi8jLcqy/r0qZTnt7k8cNUSLZh0/Y8IShpeKt4xlKkTMWTge4WKCMqgfetb8/W6nMstyRj73PqxHeeq7b6jdpQLpB0lyYWBdc1gf7O3uZCDjlbG0SVh3OU6d7dW8pTvnrlogr3v3r1MgLutpxCEIjeCNhFoOYkInSnq4Mbv2z5ycmhlfJkQKBYo7zIqvKZM2enjJmzKeJDWNUWgTbilx/hUW3YGjNm5CC1ZgODuryz6wi1RqTDRPpYhL4wK9fhS0061jBjvXQ2kxhCWvYa1oO8/WbSnJlj6Y8dWwIRaMcuziqUPGywkzoliB6DI2b4CJ1q/buhHr2MNUwch8EtX4EiNpthi0DNB5rDr/rzsBAoQnEIL44cPoCQUFO0WFmbBLp712/sfQ6jdasW0V0O12EtLDoQKNYrQRplyn1JGLTNZibQeg1bE9Zu+/RoaaFAb51EhGxy3M/J430s1CXCs41Fh3CtCdRl4EglxDuKQ6mwsBHoO2LXBIp1/8JFS1kQKCYU5mUCXAv3rzTLAnZtX09Ngn1GzlKRpKDM3aWL8R7iGE2gUycO5+WQXTZ/BlHtWnWbUyZ+92HwUBG1Wr1irkWI2t73UI4TBGIKAmEiUL2OptfqrEO4/Qf60euXr2iYVx+bBAriQWJEPP6TOWsOtT8P6vQIpcGwToNZrdkr1YAiJPXo0X3lYajB6P9roAibnTp5VH2WPkNmJi03unTxnOGp2nNDENr0n7DIIG5rDxTkDQ9Ie784JwbsSpWrUX9ej4SHh5m3Jlh9TRBoSvY4scakLVXKNMp7skWg0M87c+YEde7aXyVlIISnw8H4fWgJFBOROpyg8sfOX9UaJ/a2Fi5Wmnp1a260B2ugW7espfxM9G94y5K3hxMPvJXUvRns5kDXrgXYA2GkHaM9yy0czoaHf4cjHUmSJqVBXhMsPFCtqzjEvafyhrRZEyjW2Hs5e1msVePYqCRQ68mRrTXQ/zzQsBFod0d3fsdyUu/u7+41PFIYRI5tmTk8i+81gU6Z4KOWboIzFKFIlz4zZc2ei76tWlM9u04OLS2e3Uh7QOTEgsB7QCBMBKqTG/o7tVMenjWBgjAyZspGfR1bWxAovIjinNhwkGeymA1r+7lDL5XwgPDRixfP1ccgyg85AxWzef1S6/UkhI51uNfWGih+j3Ar1hAduzYNFawj/OfQ1t/WqtDeF19+R42bd1TrmcgWxlrWNQ4fIzSsDetMbp5j6RgnSsGrQSIVsiXNFtY1UHj5jn2G0FYOJyOsqy20BPrs2RN69vSp8k4QMQiKQIF9woQfMXn2VoSpSccWgWKykTtvAZWRfJazkyPbkLGcL38RdT+1pqNOkjJ7oEi6wfO5kQt9rFw622gWspHLV/zG8KYRbfAaMV1Nsnx4oqetDHtryFIOzxpoSB6ojrDs2MbrtHP+qxzUd8BwlRzl4tReNQf9CA2B5vosP7k6d1QZujB4pFjyQDIVwsAweK6IlGDdXq+B4nNEhPBvncGt8QiJQBFKL8hLJtbJenoig+Q3c6ZxZD8ncn5BICoRsItAly2aoQjvQwya+Qqxl1KU/jp+yFgLBIFe//sq7eTEjSzsUVb+9ifaxKn7GMDMIVxsiWjV1kGFPPdwqPDxo4cqcxDrlTeuX+HEBgej70jEQYLIyROHVZJKMh4MKn5ZlT5OmowzUp042+9dOTZNoGt4TRZhIyQjIYyMc+I64/0HhwpPeCXJk6eieXPGUzXeDoCtE5s3rFDeDNqzCuttPDibDVnAaAfC2P17tbFYr8RxYSVQ/LZN+54q+3Hh3Mm0nzNFnzPJgUDz5CustjFoQ0JJ9VqNVfIMJijIutQEgwmIH6/TnmOvFhYUgWJN2rwmGByB6gQrnG9A347BlscL1Q0I4uCfajWhH6rXV2vTyIpGdnSlyt8rjwfru9u3rVdEjqQn9yHjeXtGCtq/bwc/p4dVRjHCupiQmcPRrds5qIQvPMvYwoNCIegXvNDIJFBsTXJnzzkRkw8yYbHFqHCR0ur5RlIWJqaw0BIontWAC6fVBA5RnApfVFHRmOmT/VSWMQxbThD5wPYeLFMEBJxVBIjwM7DVWdh4nhHqxQQR6+CYxGkihKAyJk4wTZTHjx3gpL3f6dat62qJpSZvtUGoHZPPqNjiFBHPmJxDEAgtAsESaJMWHTnT8juLc8ITQ5r84oXTjBcDBIotAjAQGwajrVtWq32d1mugmOlW/aG2SmaBYcDAeuV6TkC4zS+f2TBTxsCHl16vq+gEG31c/oJF1Zqs2RBGRbYgvMHQ7kPD+TryvksMtiBNeL1XLl0gbE9BW5HlCBIzGwiubcfeak8n9mFaG7zhFFbrUzpUCBLcxoMoTPfFvI0FYbEu3L9snPQy3MuZLnAWMAi0WInyQd5reBwII2vvwTww4kcgUGSkokShNv8Ji5WCvLenk1H3VxOop1t3+pu/MxsiBogcwGt1Y6/Heg9vaB/EkI7HYNyg0c9UhD1MYIKQ9tLFM5SXVb1mI/VM6m1QGMBVlirvM4YFnD9D+/fvUuF2c19AMtizC7LQz+ISfq5xL833JaS26e/1GriOzOjPka399MkjYw0Un2OPaGueHGHrDKp8HT64l5Pq4qv1f2R9w0CgmAiM8O6n3hfPYZN4H7K3mkDUV1iUMbxV/Yxhi0v1Gg0VeaH4ycb1S2ntygUWmbPY1oN9qIjQYNKEdwSTLkwadLTHydmbsufKY7PrSD4zLymUq/ANIcSOSQ2WOPAdJnBbNq5Uz6uYIBBbEXhvxeRRqP3DRIksshWDAhmDBwZqhCKjwhCWwuCKbQEgmz68jpOQN5Hf58xKc+hZtwUb27Evz61fJ8Mzjop22roGPNa07I1ar8NGRnuwVQGhYR1SjYxrWJ8TmdKp06ZVNZmt1+usj0VGLTytkCZR8LQwAbSewEV2f7Ck8Ql7eI94Umo9KQvPteGFf5ouI93lPZmvXr8O8lR4zhEy1tGc8FwTvwVpp+RM4Du3btp8T8J7fvm9IBDdEHhvBBrdgLDVHntK+WGwGjxsCl29etHYa/c++xaVBPo++xlV10a4tVb9VhSfPaugDBEE83piVLVNriMICALvFwEh0GDwD45AkSTl1G+oWnNF6A1bV6zDnO/j1iLxCBvYj3EFHrHwIwDPFFuqgjNkTesKPuG/opxBEBAEYgoCQqDB3CmsoeXN9zknR2wNFApDiBf1cZ8/f6rWW3XmY0y58dJOQUAQEAQEgfAhIAQaPvzk14KAICAICAJxFAEh0Dh646XbgoAgIAgIAuFDQAg0fPjJrwUBQUAQEATiKAJCoHH0xku3BQFBQBAQBMKHgBBo+PCTXwsCgoAgIAjEUQSEQOPojben26iMlDhxkhCLiNtzruh4DEr8ZeJKUxB8RxnGiDQUCslboDAl4PKXsMsB57nc5btqTtCQLcEi8tpusxD8BVYyEhMEBIGYhYDdBIpC6SjTBd1LcxmvmNVdaa29CEDrtFHTDoQ9jmYZK1QfypEzr83ToIQgSj1GpuEZLMDyWR8k+EBVDrK19xal/HQZP3NbULkIdW915STs8YRaCapLjRruaggZhLf9qDA02GeykrvT4gioJYtSjzBUABow6D+hdxSMnz3dn7Vr39WrFRMEBIGYgYBdBIqZOup5wubNGk87t2+KGb2TVoYJARQX78zqJ9NYANxaZaNk6Ypc4N7R5nmhUoPC/5FlqPoEpZSS//feIEgwa/roQJeDgg6UdGyZdZ1akGjPPoNZ2OCBRa3a8PQBMl7QifX3G0inThwJ8VSQ/zv111FDYSjEH8gBgoAgEC0QsItAq1VvQD9ywe5nXCT6Iqs9jBvlGS0aL42IeATg4fXnydKdOzeN4uzmq3zxFUu8NeuoNErfvHmnyKEN6joo5B8ZljBhQi7y7kSFCpegVcvnEuoPB0WgKBCPWrAovG5t97iesXUNXaiY9HTyVKLu8FDDa/AwR4yeq2Tv/tzze4in8/aboYTj165aGOKxcoAgIAhEHwTsIlDoFGLQuXYlgEqV/VKpeJglijBgZMiYhdd4rvCazweUmwckeAvnzp4MFNLDjD9d+ow2EYDWJgZgKFRArUT/23wwvkvF311mHUeE3qBegTUlXFuHy3A81FMSsNIEwopmQ23TnHkKsCxacg5HH6NHDx9YfG/ui/l8UIRJwlJqlyGZxgYVEBQrD8oeP36oinQj5Jkmzad05fLFQEXX8V1q/u4St9F6UM/BMm/wZKAzClWNqDLoaUJlBeLmt3htztpQNB+yYj06N4qqJqnrQHEnH4t9L5g7kaCjOW7K8iAJFMdCFDw0E7130mEpleJNRBjK/z1//kyFhoMreo+lkY5dnGkkH2etxRkR7ZBzCAKCQOQhECKBpkydhgZ7T6Z1qxcxoQUoiSUtqaSbpXUnN7MG6JcsVwZVBhhIdurEERZ1WSGj1alrP5s90sLN+nyQLsPakdkgrAwZpv692ypNQo+hExWRbWA5NHgmMHPIuXPb2sbPEfprzuoqkCrTBu3E2RwG1IOcvrZ1H6HKUqRYGYKUE0x7YkHdml07NtPcmeOUzmL9xm2VRBUURMymNTWt9TSxhufi/k60GyFKeFpRZZABgy4mJLRsWe16LTmEWtHQrIyqdhUrUU5Jb+mQcnAE2sfFRxV3Nwufh9RO3Fv0HYLUEaFOgufIwWkwLZgzMcglD6yRDmJd0PPn/qLJ431CaqJ8LwgIAtEMgRAJVBMF5LEwKA0bOUvpfUJrU5smHWQyzpg6kq6yt1WMPZkffmpA8fiPS5927Fm+UodrAsXvISRsNrNElcvAkRSPi7TDE9KWKnVaRZibORkDYt0wTaBKzJpJFR4s1snKlPtKfa8JFEXWuzsOYo/uT9Z6nEL/8p+vvv5RCQIjdLZ21QJ1vL0EqqWg8BvoIP7SfYAicGADQ3uQbBUWAoX3PXDwOOXFQ+MSXmhUmavnGDpz8ih7epNsXrJpi86ULcdntIY1JqEXCq8NGaQQU79101LPNTLbHByBArsTLPB8/94dFosuznqbb9Wz9tvm1fSSJ3W2DBEGkNlYXp7AbyPCerOm5tOnj2mcv+0lj89yF1DrryOGOksx+ogAXM4hCEQxAiESaJcerioc2rdna+WlIWsxEycV9XVobWj+adIBgcAT1PZTrSYq3Gf25jSBjvQZoDJ6g7JKX31PjZp1IF/v/gbRVq/ZWJ3P1bkTe3M3DQJ9+PCeygyFx3r48F7y8JpIARfOEEhTE2jTlp2paLGy1NextUVIFINtvPjxWBS6U6gI1NxuKLO4uI+06S1qAh3EQtx3WJ8RXrO2oDxQfA+NSkhoRbZQtbkf0NocNWEhLZo/WYVJbRnEvPOzADWI6CITJwTHQT7Q3MQ9jSpZr+AIdNjImTz5+IDD8/dVaD9PvkJK7xPizqN93W2SKNZ+fcfMo9Ur5jPRrgrTa5iMtTXxLCRLnoKjJHlYDP4nmj97Au3gyYUtw3KCO5P2A85cRvLVrRt/85LHfbp2LSBM15cfCQKCQNQiECyBwsvCYHT86AEOR45VLcOg/2ONRhbEFpTXBuJ1HjCCli2aQVs2rVS/t5dAce0hnMl49PCfvJViJJNJfPIcNkmti44d5WGgBA/03JkTvD75Ma/DZqXDh/ZQ8ZLlaeuWNVS3QWuDQJHpmJhlvqyzRIvwGlTGzNmoT4+W9PjJI8MDxXVv8TYJbYU59JwsWQojhBtaAsXx8IROs3e3fdsGOnJor8KygQrvdjQmBFF7+y2vBtL24QgDtq4EtaWiWInylJXv6yYO1+vtTDpKAaIAYUSFBUegVb6vzVi/UR4nJn1YI2/a8hcVlZg2aQRHCXbabOJQ3+m0e+evtHLZnDB1AeuZCAODjGGHDuymmRxpMecLWJ8Ya86t2/VUywpo63n2lH2HuYTp+vIjQUAQiFoEgiVQDJbwOGwZ9rQtWzxTfRUUgaZJm45DrBMsQqT2EijOCw+0XIVvyNmxjboG1j8R0gS5adMEuosHPmRSYhBaykcR7psAABT7SURBVIT9Lw+gWHvUHugwv5mKwC5fOm+zP/PmjKcH9+4afYGHi6xjbUj2gUeo10BDS6DY/oOkpwoVq7AHn0159NAbjU4Eij75jZ1Pazk8qyc89jyO8KSG+s6g+/fvcMi9uz0/CfcxwRGorZPnzJWXejkPpd8523WhjfA0wuUjx7H3PY+97yA8RnsbjYkIPND2nZzoV/Zm9dq89e8RqncfMp728jo8liVucwgcz4iYICAIxAwEgiVQrCWW5qxbeJ/mTNCadZqptUZsZTAT6NSJwy023WsCRjINkmpgoSHQTJmyU393Pw4pTqF8+Quz55OLXJzaWwwymkAx00fyCLYvYC20HJOTmUC79hyosn8H9OkQbFakvWugoSVQnUSkB/I5M8aoZKvoRqDIuEbYM6gEHHhXLCHO9+C/zGCQj9eIaYQtIhAWjwoLjkDhcZpD5WgPsrWRGYuJASIi1qafNT8fFzp7+kSEdAHRF0Qx8F7YsqzZP6O+/MwiU/f0qWMRck05iSAgCEQdAkESKEKm3hy+vXnjaqDUfniGWKMc5NKFbty4Znhtx47up/H+g1XrMdAiPR+EOcS9J129cjHUBIofOPb1olSp0lDKVKlVJjD+M5uZQEuUqqhIdvmSmUbyjvZAEXb+sUZD1T60E4Y+tuvspLzS9WsWW0wGQsrCDSuBImSnM5lTcr9sESjaheQmJOigv1hfjCpr1qoLryfntulJwtNsz/f0NSeETR43zJjIIEO2HXtbCJkuWTgtUFObcfj0U568IHSK/Y4RYUERKCoQdXFwpR1bN1h40Q2atOOksWqBIhi6LYh0YJ3cmSMDCOWH1/B+NGzanrenDAiSkPGO9Oo7lBJ99BEN8+wVSLQ9vG2Q3wsCgkDkIhAkgebOW5Acenuq9aCN65ZatAKVan7p7kIrOBN20/plBoHCA0HmI7a7FCpSklKn/kStn5qzEEPjgeKipctWolZtHdSaVn/2Pq1LxZkJFMSTKHFii+xXTaDYMoAs3OxMDmc5eekS7+fMl7+ISpAyV9CJLA8U5fDgqeVlT/r161fKS/6CB1lbBKq9VPQf3vc2q608kflIICmon5uvWmc+cexgoEvpKj/Y6nH61FG1/zdnrnxqi44fr93du3fb4je4J75j56mydj5D+nAhjjNhan4BTlyqVPl747dYb3zISULYQwtDST+EShOxV9+jtwdlY+8O9xiTI0QvQKzoz8SxQwPtx0Ub+/Ea+ZXLF0K19SW4jgzxmaKuN3fWuGD7m54zuAd4jLZZ9SlMQMmPBAFBIMoQCJJAsUUBs/L5cyYEyqxEVZhO3VzU4AUS1aSDBA2s/aBaDMjiBFd1QbjMXJ0G5FCDQ8CL5021K9swMaq6cHbk4YN7bFaWQVk5ELY1ycPTQ5IOMkO1ocB3Zc6MzJevMGF/6/lzJ1WhdCR7aEMiUsOm7dQ2DSQnaav6Qx0mirw2q/Ngrbd56y6qDSdPHLa4ebod+PANZ+ACkwO81QWDv/5uOpfMw7+1IYGqm8NAipcgPs2ZPtYunCLyiUHkAIQz2K2HzTU5JOOUr/gtpc+YmR7cv6u2YGzZsCIQeaJN6TNkJlcmiCuXLpCXh+0SgPa0vSA/U1W+qxXkoTj/0kXT1ffwlKtWq6e2sKTlewNyRcY37o+ug2s+UcVKVQkTAw/OlEZEJbyGbFxvXnO3jmIEdV7kCWCChXdJTBAQBGIOAiFuY7GnK0F5bfb8NqRjyjCRt2zTjUZzXdGTdtQVDel88n3ICGAduZezl5pcIOEmuEo6IZ2tVJlKnGXqQHN4Hf2PHVtCOjzKv8c6ZHdeH0dmdFizb60bjWxtlOebPX2M2joDe/bksREaRugWGGvDhAWJccuXzIry/ssFBQFBIOwIRFsCRSgxPnuxjXm9FR4Z9lGGZyAPO0Rx85cIbffo5UH79m5X1XTCanXqt6QKX1Qh514/R1qd3LC2TZPnPo4IhKePtq6PjPHPC5c0vsIa++oV89S/EydJSiP8/9sq85TJdfzowSJpFtYbKb8TBN4TAtGWQDHAYKBBTdlJvG6FMKFY1CKA8PkHrGcZnqQabOn4kEP+2CIU3QwTs4SJErESy8NImZyh71jKgL188cIo4AAPFMUWtD3jqlXWWcPRDStpjyAgCARGIEIIFNsGsE8SCT5BlUoLLfhYV/yX98QhMUlMEBAEBAFBQBCIbghECIFGt05JewQBQUAQEAQEgchGQAg0shGW8wsCgoAgIAjESgSEQGPlbZVOCQKCgCAgCEQ2AkKgkY2wnF8QEAQEAUEgViIgBBorb6t0ShAQBAQBQSCyEQiWQKFt+Mmn6S3agJT/v69dohcvnkd22+T8UYxAipSpVVWp9Okzq6pCqKpkrpCkm4OtGTn5uGzZc9OL589UsQBU+xETBAQBQSAuIRAsgULNBILQ1vbs2ROaNW20haxYXAItNvYVZQVbte2hatZqAzlO5TKDJ44dMD7D99C8zF+wqNo7qbUvrcXUYyNG0idBQBAQBMwI2EWgnlwT9cWLZxQ/fnz6LE9Bql2vhdogDmkx8URj/gOFov8Dh4wlFIhH6b4ArnGMOrItuIQi7q+LUztjoz9Eyr/mesJQXdm1fRMXb0+s6siCgEWWK+Y/C9IDQUAQsB8Buwi0Z5cmFkQJPdDvqtUlX+/+dO7sX8bV4I1AdzFj5mwUcP50kIW5UQEmW47cXA80AxdfuE+n/jrMZd5eGedJkSIVF2b4hIvEXwpU/g3fpeLvLl88ZxQ6T5U6LaXk8KO1gRBQyQgG7c1MmbIqrcvgSB9tSpo0WZAI3rl1w6IyDwrr58iZl6XHUtFfJw4RyrKZDYXNM3FZwqDs9evXhtSb+ZgcOfMQQqrHjuyz0GK1/9baf2TefJ9TgyZtWThgkkUB/bYde1PxkuUJEyiE7VEwY8jwqUp5xdvzP6H15MlTsqD2dFX2b/pkP/svLEcKAoKAIBCDEQgTgX5Z+QeldTh2lKcR3oPqRvdegwgEpw0aoCN9XAkhX21Vvq9Fteq2MEJ/+BzVi2ZMGUlHDu1Vh+ni9ItZymurlZQXaoxmZ/KFHJguf1arbnOCWoq1rV21gNauWqg+xm+c+g9j2agRSpcyKPu5gyNBVzQomzHFj/7cs119Xf6Lb6lR0w6KWGBv376l0yeP0uTxwwyShlyVq+eYIM93mwWX3fp1tvg+IxO9i/so9dms6aNpz67f3ssjVq8hvM0a5OrcUXmnWpQa8mqQWTMbZOWAA2reigkCgoAgEBcQCDWBojYqiBIkpwdWyIT1cR2uvMgpTB4YbEFC9Ru1YY3Fi+Tn46KwhG6kY98htHnDctrx+yauQXqfcvBnv3QfoCTThrg7GJi7DBxJ8Thk7OHazfgMniYG6s0bV9BKk/QTCLTK97WZiDqpY+Hh9nPzY/IMPYFCSQMCx7Cy5b+maj81UKHJu3dvqc8e3L+nJLGSJPlYhT2PH9lPq1fOp3+475BKgxC2uXA4Qt1otzZnV1/l5S1eMFV9BHFq60QdeN8DB49TYfIJY7yUFxrVhmjCIK/xKgLg4dpdXR5hXdwrTCL2791JkBjD5Oj82ZOEiQeEtbt2qB8pdWWjuv9yPUFAEBAEQkLALgKFV/WGBa0hPAxP7qPESWjvH1tp5jR/dX4teu01yFGJEmtr2rKzUuLo59TWKCaO9Taz6PK7gXoCPXnyyCIsWInFphuxEos5TFy9ZmP6oXp9Ju5OHEa8aVwHih/wlLq0r6s+0xqitgh0FrcZMl2KvFjYOjiFF+iJvhO87qDCltaG0CVCxPocCNd6+c5QBDl+9BCb2PuMmq0IEe0IzlCIPD5j8/jxo5DuYaR8X5MnJd+xV79s8UzawhMWWNkKX1OL1l1pjN8g9Tx0d3RXE4DunRuqiAQiE717tAgUxo6UBspJBQFBQBB4zwjYRaCn/jqiwpOwx48e0Fle99y981eDOJCt+9XX1ZRgsZmQMmfJTp8XKcUhTR8WrX5HWjAknGAbRIIEH1AO3gqRMUs21k4crUSFtcGLxHobdBIR3gV5ew6bpNZFx47ysICtcbOOVLrcl+TwS2P1eXAEav4hiHz/3h3KI37KihjWFhKB4nh41ekzZCIQHlE8FUq+HHCO9Uvdbd5aewn0fT4XSBKq17AN7d71q9K01FasRHlq16k3jfcfTFeuXqTmrbrSPZ5YzJ01jpq06EgVK31HPTo1oFe8rismCAgCgkBsR8AuArVOIrIGBckmRYqVUfsGbdnvW9fxWulB46tvqtZQIV54nxkyZlFroMsWzaC9u7dZ/BweaLkK35CzYxsVMsb6J0KaIFWztWnfk3LnLaSOC4lAt2xaqUKOyCiGHiS8LAgpg/xDQ6Bo+y89BlCBgsXUXsjrf1/lZJ/X6pw4f0wl0Bq1m6ow9OGDezgc72MkagGbXLnzk2OfIWRry0pvZ281kXDs1iy2vzPSP0FAEBAEFAIRQqAYcDHw6jXR0GCLxBOn/j4qi7Zvz9YWA3amTNmpv7ufSljJl78wZc2WS22decsyZ2ZDws3zZ09phHe/EAnUOokIhPBxsuTk7tIlVARasnRFatPekdatWURrVy4wPO8Bg/x5nfRujCNQePhNWnRSiVHbfltHSOCyDm8nT5GSvIZPUyFoTGS04R76jpmnogPm7NzQPAdyrCAgCAgCMQ2BCCHQPOz99ejtodbKsGamDd4dtqsg6QQJRsjQrVGnqfL4Hj18YBzXtedAwlYKeLpIWjGbY18vSpUqDaVMlZrWrV6k/jMbEm6QWITEnTWczAMLLoRrJlB4kW6eY7kt98h32LtEJ7MFF8LV3yGcrL1rbIFxcfens6ePh4tAQWaYlICw0N9HHDaPTMNWnJ879KJChUvScqx5spcelHV1cFNe9mD3Hsa6dolSFdTvbWVNR2a75dyCgCAgCLxPBCKEQNEBJNuAVJBNixAr9oIWLFRcrZXOmTlW9RHVa1DF5hmvNx47ul8l4OTIkUd9fujAbrX9w9p0gtJbTlrpz94nRLu1VahURSUpYdvHAP7uMScihUSgZ0+foFs3/1YZvtmy56JMmbOrdT6s94WGQDNkzMqZvr7sbd5RbUdBgQKFiqlwdJIkSVUI1HqrB85vzxpozlx5qZfzUNUcnAPbRiLT4HU2a/mL2npz5tSxQJe6HHBeedowhHFBoriHx4/tV/3G2uid2zfIx6uvigSICQKCgCAQFxAIlkBBiEj4Gcf7Pa09Q2tw4M3heJBmZi4ccO1qAJ3k5KPfNq2yCLnCe6nMCUdZOBybiIsbnD93ShVSOMgk9IrJx9q0NwlCmjTO2+JrZORm4/NhS4xlubmE1Jm3W2D/5B7OFoal4/2YqJhjtts3r6vN/2c5a9ZWNi76jj5NnTDcKMhg/j2qMpUtX5nyFShM9+7e5so8m+nihTOErGAQNJJtrK1jF2fVZyQuBWVIoOrmMJDiJYhPc6aPpWvXAiL1WQTx29pHqy96iYtWLF/yX2QBiVPYz4uQOkj3IhfNwLYiPYGJ1MbKyQUBQUAQiCYIRHs1ljJMUC25pNxov4GcpHQkmsAmzRAEBAFBQBCI6whEWwKFFxufCwk05kxceGSDBnSVDfpx/WmV/gsCgoAgEI0QiLYEOsJ/DiXmtUSsk04aO1SFPcUEAUFAEBAEBIHogkC0JdA0adOxx/lWrS2KCQKCgCAgCAgC0Q2BaEug0Q0oaY8gIAgIAoKAIGBGQAhUngdBQBAQBAQBQSAMCAiBhgE0+YkgIAgIAoKAICAEKs+AICAICAKCgCAQBgSEQMMAmvxEEBAEBAFBQBAIkUBRv7ZcxW+UDiiq61xlgezfNq+yKf9VvGR5yl+gKKVO+6k67sC+nXT50nlBWRAQBAQBQUAQiHUIBEug6bn8XTcWTU7JxdxRPxal91Kwagrq0XoO7GEhnFyzTjP6rlpdun/vjhK7RiEE6H1OGDtEKgjFusdGOiQICAKCgCAQLIF2cXBVHqX/CDc6zUXGUe8W9Wer12xMG9cvU/VPYagz6+Y5RgliT5/kq2rfgmh7sZIKisC79essSAsCgoAgIAgIArEKgWAJtGKlqlwNKAkXPl9hdDp5ctaEHDGNThw/qIrMw2rVba6KkUOPE2LS2mrXa8FFx2sH+jxWISidEQQEAUFAEIiTCIS4BmqNCioEeQydoNZBlyycrr7u0sNVKZK80/N8ZfwEaibtO/ehhXMn0e9b18dJgKXTgoAgIAgIArETgVATKEK4P9VqQiOHuxrakf3c/Di8SzR4oAN9XqQUFS5ain7duFKRqeewSUrsevWKebETQemVICAICAKCQJxEIFQEmr9gEercbQBdCjhLvkNdeK3zjQINJPnw/n0WVO5DTs7elD1XHkWYO7dtJO+RM5X3CS9UTBAQBAQBQUAQiC0I2E2gufMWpE5d+6vi7r7e/enZsycGBs6uI1TGradbdypQsBjh2B2/b1RJRx5DJ9K61Ytozcr5sQUz6YcgIAgIAoKAIEB2EWixEuWodTsHun3rOvn7uqttLGb7pfsAyl+wKPXs2pRevXxhfIV9oW079qYFcybS9m0bBG5BQBAQBAQBQSDWIBAigVaq/AM1bNKOzpw+TpPGeNHzF88Ddb56rcZUrXoD8vNxobOnTxjf12nQir6tWpOGDXaigItnYw1o0hFBQBAQBAQBQSBYAv2xRiP6sUZD2vvHVpozcyy9efNuzdPa0n6SjtyHjKcTxw7SpHFD6Z9//iF81tNpMD1//ow8XLsJ0oKAICAICAKCQKxCIFgCHeIzRVUhAgnaslFcYOFywDn1FfaBYj/o82dP6f79u/Rpuoz0+vUr3ivqQefPnYpVoElnBAFBQBAQBASBYAm08rfVKUmSpEGitGvnFnpw767xPdZB8+UvQqlSp6W/r12iwwd2040b1wRlQUAQEAQEAUEg1iEQ4hporOuxdEgQEAQEAUFAEIgABIRAIwBEOYUgIAgIAoJA3ENACDTu3XPpsSAgCAgCgkAEICAEGgEgyikEAUFAEBAE4h4CQqBx755LjwUBQUAQsBuBye7dKG/2THYdX6llH7uOiy0HCYHGljsp/RAEBAFBIBIQAIG2GzCcKH7CYM/eq2V1Gj5zTSS0IPqeUgg0+t4baZkgIAgIAu8dASHQoG+BEOh7fzylAYKAICAIRF8EhECDvjf/A90Fc5vAkVvmAAAAAElFTkSuQmCC",
+      "created": 1775738591027,
+      "lastRetrieved": 1775738591027
+    }
+  }
+}

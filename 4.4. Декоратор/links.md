@@ -1,0 +1,2 @@
+- https://habr.com/ru/companies/slurm/articles/748176/
+- https://metanit.com/python/tutorial/2.19.php
